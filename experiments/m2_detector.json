@@ -1,0 +1,2402 @@
+[
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.9318181818181818,
+  "disagree": 0.046511627906976716
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.9347826086956522,
+  "disagree": 0.06818181818181823
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.9090909090909091,
+  "disagree": 0.09090909090909094
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.9318181818181818,
+  "disagree": 0.04761904761904767
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.9661016949152542
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.30434782608695654
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.9318181818181818,
+  "disagree": 0.06976744186046513
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.9148936170212766,
+  "disagree": 0.1333333333333333
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.03571428571428571,
+  "disagree": 0.2962962962962963
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.08695652173913049
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8863636363636364,
+  "disagree": 0.2272727272727273
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.8260869565217391,
+  "disagree": 0.04761904761904767
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.717391304347826,
+  "disagree": 0.4285714285714286
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.8478260869565217,
+  "disagree": 0.19999999999999996
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.15384615384615385
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.3548387096774194,
+  "disagree": 0.38235294117647056
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 1.0,
+  "disagree": 0.0625
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 1.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 1.0,
+  "disagree": 1.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.13636363636363635
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8947368421052632,
+  "disagree": 0.1578947368421053
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.31999999999999995
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.17391304347826086
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8421052631578947,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.85,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.7619047619047619,
+  "disagree": 0.1578947368421053
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.07999999999999996
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 1.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 1.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.8636363636363636
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.8,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.9333333333333333
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.25
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.8,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.8,
+  "disagree": 0.935483870967742
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.6,
+  "disagree": 0.5
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.9130434782608695,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.9069767441860465,
+  "disagree": 0.19512195121951215
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.045454545454545456,
+  "disagree": 0.9454545454545454
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.8888888888888888,
+  "disagree": 0.9807692307692307
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.19047619047619047
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8604651162790697,
+  "disagree": 0.05405405405405406
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.813953488372093,
+  "disagree": 0.10526315789473684
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.782608695652174,
+  "disagree": 0.17500000000000004
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.3076923076923077
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.08695652173913049
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8205128205128205,
+  "disagree": 0.24390243902439024
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.7674418604651163,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.7906976744186046,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.7948717948717948,
+  "disagree": 0.15384615384615385
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.2222222222222222
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 1.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.1,
+  "disagree": 0.4782608695652174
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.75,
+  "disagree": 0.96
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.045454545454545456,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8333333333333334,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.09090909090909094
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8333333333333334,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.6666666666666666,
+  "disagree": 0.9666666666666667
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.8333333333333334,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.040000000000000036
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.040000000000000036
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 1.0,
+  "disagree": 1.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.4814814814814815
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 1.0,
+  "disagree": 1.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.20833333333333337
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.21739130434782605
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.6363636363636364,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.625
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8823529411764706,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.7,
+  "disagree": 0.15000000000000002
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.47368421052631576,
+  "disagree": 0.17647058823529416
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.47619047619047616,
+  "disagree": 0.84375
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.3076923076923077
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.7058823529411765,
+  "disagree": 0.125
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.8,
+  "disagree": 0.38888888888888884
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.631578947368421,
+  "disagree": 0.11764705882352944
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.2857142857142857
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.13636363636363635,
+  "disagree": 0.9166666666666666
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 1.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 1.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.25
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8421052631578947,
+  "disagree": 0.11111111111111116
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.7619047619047619,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.96
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.125
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8,
+  "disagree": 0.05555555555555558
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.8571428571428571,
+  "disagree": 0.05555555555555558
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.8,
+  "disagree": 0.05555555555555558
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.7,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.040000000000000036
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.8,
+  "disagree": 0.3571428571428571
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.9375,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.15000000000000002
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.9375,
+  "disagree": 0.1428571428571429
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.04761904761904767
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.7647058823529411,
+  "disagree": 0.19999999999999996
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.8125,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.16666666666666663
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.7692307692307693,
+  "disagree": 0.15384615384615385
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.08695652173913049
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.75,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.7333333333333333,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.75,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.7333333333333333,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.07999999999999996
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.1111111111111111,
+  "disagree": 0.962962962962963
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.9583333333333334,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 1.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.09090909090909091,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.75,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.6956521739130435,
+  "disagree": 0.9166666666666666
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.08695652173913049
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "whisper",
+  "leak": 0.782608695652174,
+  "disagree": 0.13636363636363635
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": -10,
+  "backend": "qwen3",
+  "leak": 0.782608695652174,
+  "disagree": 0.13043478260869568
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "whisper",
+  "leak": 0.782608695652174,
+  "disagree": 0.09523809523809523
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": -5,
+  "backend": "qwen3",
+  "leak": 0.03333333333333333,
+  "disagree": 0.25
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": 0,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": 5,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "whisper",
+  "leak": 0.0,
+  "disagree": 0.0
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "snr": 10,
+  "backend": "qwen3",
+  "leak": 0.0,
+  "disagree": 0.0
+ }
+]

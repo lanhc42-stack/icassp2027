@@ -1,0 +1,3746 @@
+[
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.9318181818181818,
+   "recall": 0.08695652173913043,
+   "text": "I'm moving on casually, what doesn't take me out? Only makes me stronger, face it piece by piece, te"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.34782608695652173,
+   "text": "But this last supposition is almost always unnecessary."
+  },
+  "duck_last": {
+   "leak": 0.8541666666666666,
+   "recall": 0.13043478260869565,
+   "text": "While I'm moving on casually, what doesn't take me out? Only make me stronger, face it piece by piec"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary, for if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.6976744186046512
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8695652173913043,
+   "recall": 0.13043478260869565,
+   "text": "I I'm moving on casually, what doesn't take me out Only make the stronger face a piece by piece. Tel"
+  },
+  "duck_onset": {
+   "leak": 0.7948717948717948,
+   "recall": 0.21739130434782608,
+   "text": "But this last opposition only make the stronger face a piece by piece. Tell us art like the Mona. Ye"
+  },
+  "duck_last": {
+   "leak": 0.8292682926829268,
+   "recall": 0.2608695652173913,
+   "text": "I I'm moving on casually, what doesn't take me out? only make the stronger face a piece by piece, Te"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "But almost unnecessary\u044d \u0431 principle,."
+  },
+  "shift_disagreement": 0.6428571428571428
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9347826086956522,
+   "recall": 0.08695652173913043,
+   "text": "While I'm moving on casually, what doesn't take me out only makes me stronger. Face it, piece by pie"
+  },
+  "duck_onset": {
+   "leak": 0.85,
+   "recall": 0.21739130434782608,
+   "text": "But this last supposition only makes it stronger. Face it piece by piece, tell us art like the Mona."
+  },
+  "duck_last": {
+   "leak": 0.8095238095238095,
+   "recall": 0.2608695652173913,
+   "text": "While I'm moving on casually, what doesn't take me out only makes me stronger. Face it, piece by pie"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.7045454545454546
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.9318181818181818,
+   "recall": 0.09090909090909091,
+   "text": "I'm moving on casually, what doesn't take me out? Only makes me stronger, face it piece by piece, te"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.9545454545454546,
+   "text": "The Fairview Band was engaged to disperse as much harmony as it could produce. And the resources of "
+  },
+  "duck_last": {
+   "leak": 0.9318181818181818,
+   "recall": 0.13636363636363635,
+   "text": "While I'm moving on casually, what doesn't take me out only makes me stronger. Face it piece by piec"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.6904761904761905
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.9347826086956522,
+   "recall": 0.045454545454545456,
+   "text": "I I'm moving on casually, what doesn't take me out, only make me stronger face a piece by piece. Tel"
+  },
+  "duck_onset": {
+   "leak": 0.7954545454545454,
+   "recall": 0.2727272727272727,
+   "text": "The Fairview band was engaged to only make me the stronger face a piece by piece. Tell us art like t"
+  },
+  "duck_last": {
+   "leak": 0.8809523809523809,
+   "recall": 0.13636363636363635,
+   "text": "I I'm moving on casually, what doesn't take me out, only makes me stronger face a piece by piece, Te"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.7272727272727273,
+   "text": "The Fairview band was engaged discourse as much harmony as could produce the resources were tax to e"
+  },
+  "shift_disagreement": 0.65
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9148936170212766,
+   "recall": 0.09090909090909091,
+   "text": "While I'm moving on casually, what does it take me out? Only makes me stronger, face a piece by piec"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6363636363636364,
+   "text": "The Fairview Band was engaged to disprove as much harmony as the harmony and the resources of the gr"
+  },
+  "duck_last": {
+   "leak": 0.7954545454545454,
+   "recall": 0.22727272727272727,
+   "text": "While I'm moving on casually, what does it take me out? Only makes me stronger. Face it piece by pie"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.6666666666666667
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8863636363636364,
+   "recall": 0.125,
+   "text": "I'm moving on casually what doesn't take me out only makes me stronger face a piece by piece tell us"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.25,
+   "text": "It was silent and gloomy, being ten and three."
+  },
+  "duck_last": {
+   "leak": 0.8837209302325582,
+   "recall": 0.125,
+   "text": "I'm moving on casually what doesn't take me out only makes me stronger face a piece by piece tell us"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a "
+  },
+  "shift_disagreement": 0.6578947368421053
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8636363636363636,
+   "recall": 0.125,
+   "text": "I'm moving on casually, what doesn't take me out? Only make me stronger face a piece by piece. Tell "
+  },
+  "duck_onset": {
+   "leak": 0.7073170731707317,
+   "recall": 0.2916666666666667,
+   "text": "It was silent and blew me. only make the stronger face a piece by piece. Tell us art like the Mona. "
+  },
+  "duck_last": {
+   "leak": 0.875,
+   "recall": 0.125,
+   "text": "I'm moving on casually what doesn't take me out? make me stronger face a piece by piece, Tell us art"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.2916666666666667,
+   "text": "It was silent gloomy solely embers used."
+  },
+  "shift_disagreement": 0.631578947368421
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.8260869565217391,
+   "recall": 0.16666666666666666,
+   "text": "While I'm moving on casually, what does it take me out? Only make me stronger. Face it piece by piec"
+  },
+  "duck_onset": {
+   "leak": 0.7560975609756098,
+   "recall": 0.3333333333333333,
+   "text": "It was silent and gloomy. Only makes me stronger. Face a piece by a piece. Tell us art like the Mona"
+  },
+  "duck_last": {
+   "leak": 0.825,
+   "recall": 0.16666666666666666,
+   "text": "While I'm moving on casually, what does it take me out? Only make me stronger. Face it piece by piec"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.7674418604651163
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.9333333333333333,
+   "recall": 0.07407407407407407,
+   "text": "While I'm moving on casually, what doesn't take me out Only makes me stronger, face it piece by piec"
+  },
+  "duck_onset": {
+   "leak": 0.14285714285714285,
+   "recall": 0.48148148148148145,
+   "text": "They give laws according to which images have passed through the consciousness of the human into our"
+  },
+  "duck_last": {
+   "leak": 0.07407407407407407,
+   "recall": 0.4074074074074074,
+   "text": "They get the halls and boarded boards, images of past, and the present, and into our minds. To not d"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.6976744186046512
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.9111111111111111,
+   "recall": 0.07407407407407407,
+   "text": "I'm moving on casually, what doesn't take me out, only make the stronger face a piece by piece. Tell"
+  },
+  "duck_onset": {
+   "leak": 0.7954545454545454,
+   "recall": 0.25925925925925924,
+   "text": "They give walls according to which images only make the stronger face a piece by piece. Tell us art "
+  },
+  "duck_last": {
+   "leak": 0.9047619047619048,
+   "recall": 0.07407407407407407,
+   "text": "I'm moving on casually, what doesn't take me out, only make me stronger face a piece by piece, Tell "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.48148148148148145,
+   "text": "They give laws which images past occur into minds, not discuss belief these images refer past occur."
+  },
+  "shift_disagreement": 0.6052631578947368
+ },
+ {
+  "track": "Little Chicago's Finest - My Own",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9565217391304348,
+   "recall": 0.07407407407407407,
+   "text": "While I'm moving on casually, what doesn't take me out only makes me stronger. Face it piece by piec"
+  },
+  "duck_onset": {
+   "leak": 0.72,
+   "recall": 0.37037037037037035,
+   "text": "They give laws according to which images of past and present are made. Out only makes it stronger. F"
+  },
+  "duck_last": {
+   "leak": 0.875,
+   "recall": 0.1111111111111111,
+   "text": "While I'm moving on casually, what doesn't take me out only makes me stronger. Face it, piece by pie"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.6904761904761905
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "That's when I saw her face. And then I knew I was gonna have a good time."
+  },
+  "duck_onset": {
+   "leak": 0.041666666666666664,
+   "recall": 0.6086956521739131,
+   "text": "But this last supposition is always unnecessary. For it is a fact that it's been habitually managed "
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "She will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.0
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "I went inside, that's when I saw her face and then I knew I was gonna have a good time."
+  },
+  "duck_onset": {
+   "leak": 0.8,
+   "recall": 0.08695652173913043,
+   "text": "Fuck this last opposition When I saw her face and then I knew I was gonna have a good time."
+  },
+  "duck_last": {
+   "leak": 0.8571428571428571,
+   "recall": 0.13043478260869565,
+   "text": "I went inside that's when I saw her face, and then I knew I was gonna have a She will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "But almost unnecessary\u044d \u0431 principle,."
+  },
+  "shift_disagreement": 0.11764705882352944
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "I went inside. That's when I saw her face, and then I knew I was gonna have a good time."
+  },
+  "duck_onset": {
+   "leak": 0.047619047619047616,
+   "recall": 0.6086956521739131,
+   "text": "But this last supposition is almost always unnecessary, for if the man has been habitually mad and i"
+  },
+  "duck_last": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "I went inside. That's when I saw her face, and then I knew I was gonna have a good time."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.11764705882352944
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8947368421052632,
+   "recall": 0.09090909090909091,
+   "text": "went inside. That's when I saw her face. And then I knew I was gonna have a good time."
+  },
+  "duck_onset": {
+   "leak": 0.3076923076923077,
+   "recall": 0.6363636363636364,
+   "text": "The Fairview Band was engaged in discourse as much harmony as it could produce, and then I knew I wa"
+  },
+  "duck_last": {
+   "leak": 0.3076923076923077,
+   "recall": 0.6363636363636364,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce. And then I knew I wa"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.26315789473684215
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8571428571428571,
+   "recall": 0.09090909090909091,
+   "text": "I went inside inside that's when I saw her face and then I knew I was gonna have a good side."
+  },
+  "duck_onset": {
+   "leak": 0.5,
+   "recall": 0.5,
+   "text": "The Fairview band was engaged when I saw her fame much harmony as it could, and then I knew I was go"
+  },
+  "duck_last": {
+   "leak": 0.7272727272727273,
+   "recall": 0.22727272727272727,
+   "text": "I went inside, that's when I saw her face, and then I knew I was gonna have a to entertain the guest"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9545454545454546,
+   "text": "The Fairview band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.11764705882352944
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.6818181818181818,
+   "text": "The debut band was engaged to perform as much harmony as it could create. The resources of the great"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.7727272727272727,
+   "text": "The Fairview Band was engaged to produce as much harmony as it could produce from the resources of t"
+  },
+  "duck_last": {
+   "leak": 0.23333333333333334,
+   "recall": 0.5909090909090909,
+   "text": "The debut band was engaged to do the chores. As much harmony as it could create. And then I knew I w"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.9666666666666667
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8421052631578947,
+   "recall": 0.125,
+   "text": "went inside that's when i saw her face and then i knew i was gonna have a good time"
+  },
+  "duck_onset": {
+   "leak": 0.5454545454545454,
+   "recall": 0.25,
+   "text": "It was silent and gloomy when I saw her face. And then I knew I was going to have a good time."
+  },
+  "duck_last": {
+   "leak": 0.7272727272727273,
+   "recall": 0.25,
+   "text": "went inside that's when i saw her face by the captive and then i knew i was gonna have a good time"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.11764705882352944
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8,
+   "recall": 0.125,
+   "text": "I went inside that's when I saw her fame, and then I knew I was gonna have a good time."
+  },
+  "duck_onset": {
+   "leak": 0.52,
+   "recall": 0.375,
+   "text": "It was silent and gloomy me when I saw her face by the captive, and then I knew I was gonna have a g"
+  },
+  "duck_last": {
+   "leak": 0.7894736842105263,
+   "recall": 0.125,
+   "text": "I went inside that's when I saw her fame, and then I knew I was gonna have a good."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8333333333333334,
+   "text": "It was silent and gloomy being ten solely by the captive and lighted by the dying imbers of a fire w"
+  },
+  "shift_disagreement": 0.38888888888888884
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.85,
+   "recall": 0.125,
+   "text": "I went inside. That's when I saw her face, and then I knew I was gonna have a good time."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.625,
+   "text": "It was silent and gloomy. Being communed solely by the captive and warmed by the dying embers of a f"
+  },
+  "duck_last": {
+   "leak": 0.7894736842105263,
+   "recall": 0.125,
+   "text": "I went inside. That's when I saw her face, and then I knew I was gonna have a conversation."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.11764705882352944
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8888888888888888,
+   "recall": 0.037037037037037035,
+   "text": "That's when I saw her face. And then I knew I was going to have a good time."
+  },
+  "duck_onset": {
+   "leak": 0.4230769230769231,
+   "recall": 0.48148148148148145,
+   "text": "They give laws according to which images of past events would come into our minds, and then I knew I"
+  },
+  "duck_last": {
+   "leak": 0.95,
+   "recall": 0.037037037037037035,
+   "text": "went inside that's when I saw her face and then I knew I was gonna have a good time which"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.17647058823529416
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "I went inside that's when I saw her face and then I knew I was gonna have a good time."
+  },
+  "duck_onset": {
+   "leak": 0.5769230769230769,
+   "recall": 0.37037037037037035,
+   "text": "They give laws according to which images. When I saw her fade into our minds and then I knew I was g"
+  },
+  "duck_last": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "I went inside, that's when I saw her face and then I knew I was gonna have a good."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.5185185185185185,
+   "text": "They give laws according which images past occur into minds, not discuss belief these images refer p"
+  },
+  "shift_disagreement": 0.2777777777777778
+ },
+ {
+  "track": "Louis Cressy Band - Good Time",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.04,
+   "recall": 0.3333333333333333,
+   "text": "Against walls, according to which images are cast, and into our minds, the not discussed are beliefs"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5185185185185185,
+   "text": "They give laws according to which images are cast into our minds. Do not discuss our beliefs that pe"
+  },
+  "duck_last": {
+   "leak": 0.043478260869565216,
+   "recall": 0.4074074074074074,
+   "text": "Against walls, according to which images are passed into our minds, and against our beliefs that pea"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.9666666666666667
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "through the clouds i'm rising smiling smiling let it go"
+  },
+  "duck_onset": {
+   "leak": 0.2,
+   "recall": 0.5652173913043478,
+   "text": "but this last supposition is always unnecessary. But if Mary has the potential to let it go, she wil"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "she will not"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.33333333333333337
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.5,
+   "recall": 0.0,
+   "text": "Thr the clouds\u043c, Sm, it go."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.08695652173913043,
+   "text": "But last."
+  },
+  "duck_last": {
+   "leak": 0.8888888888888888,
+   "recall": 0.0,
+   "text": "Through the clouds, I'm rising, Sm,. Let it go."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.08695652173913043,
+   "text": "But unnecessary\u044d\u044d \u0431 principle,."
+  },
+  "shift_disagreement": 0.6666666666666667
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "Through the clouds, I'm rising, smiling, smiling. Let it go."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6521739130434783,
+   "text": "But this last supposition is always unnecessary, for if Mary has been eventually reconciled, she wil"
+  },
+  "duck_last": {
+   "leak": 0.7142857142857143,
+   "recall": 0.17391304347826086,
+   "text": "Through the clouds, I'm rising, smiling, smiling. Let it go. Principle, she will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.2222222222222222
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8,
+   "recall": 0.09090909090909091,
+   "text": "Through the clouds I'm rising Smiling, smiling, let it go"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.7272727272727273,
+   "text": "The Fairview Band was engaged in this course as much as it could produce and the resources of the Fa"
+  },
+  "duck_last": {
+   "leak": 0.8,
+   "recall": 0.09090909090909091,
+   "text": "Through the clouds I'm rising Smiling, smiling Let it go"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.33333333333333337
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.6666666666666666,
+   "recall": 0.09090909090909091,
+   "text": "Through the clouds I'm rising, Sm Let it go."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6363636363636364,
+   "text": "The Fairview band was engaged toors as much harder as it could produce resources of to entertain the"
+  },
+  "duck_last": {
+   "leak": 0.13333333333333333,
+   "recall": 0.4090909090909091,
+   "text": "Through the clouds rise to as much it can produce of to entertain the guests."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.2727272727272727,
+   "text": "The ferview band engagedors as much harmony entertain."
+  },
+  "shift_disagreement": 0.6363636363636364
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.8,
+   "recall": 0.09090909090909091,
+   "text": "Through the clouds, I'm rising, smiling, smiling, let it go."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.7272727272727273,
+   "text": "The Fairview Band was engaged to disburse as much money as it could produce from the resources of th"
+  },
+  "duck_last": {
+   "leak": 0.8,
+   "recall": 0.09090909090909091,
+   "text": "Through the clouds, I'm rising, smiling, smiling, let it go."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.2222222222222222
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8,
+   "recall": 0.08333333333333333,
+   "text": "Through the clouds I'm rising, smiling, smiling, let it go."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.4166666666666667,
+   "text": "It was silent and gloomy, and we had tears in our eyes, and we were so glad to have him, and delight"
+  },
+  "duck_last": {
+   "leak": 0.8,
+   "recall": 0.08333333333333333,
+   "text": "Through the clouds I'm rising, Smiling, smiling, let it go."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a "
+  },
+  "shift_disagreement": 0.2222222222222222
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.3333333333333333,
+   "recall": 0.08333333333333333,
+   "text": "Thr the clouds I\u043c,,. it go."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.16666666666666666,
+   "text": "It was silent and."
+  },
+  "duck_last": {
+   "leak": 0.46153846153846156,
+   "recall": 0.16666666666666666,
+   "text": "Through the clouds I'm rising, Sm Let it go for the purpose of."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.08333333333333333,
+   "text": "It silent \u0431 \u0442 \u0441bers \u0431 used\u044dary."
+  },
+  "shift_disagreement": 0.8181818181818181
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.8,
+   "recall": 0.08333333333333333,
+   "text": "Through the clouds, I'm rising, smiling, smiling. Let it go."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5416666666666666,
+   "text": "It was silent and gloomy, maintained and sold by the captain and lighted by the guidekeepers of a fa"
+  },
+  "duck_last": {
+   "leak": 0.5333333333333333,
+   "recall": 0.20833333333333334,
+   "text": "Through the clouds, I'm rising, smiling, smiling. Let it go for the purpose of cookery."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.2222222222222222
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "Through the clouds I'm rising Smiling, smiling, let it go"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.25925925925925924,
+   "text": "they give laws according to which images"
+  },
+  "duck_last": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "Through the clouds I'm rising, smiling, smiling, let it go."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.33333333333333337
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.7777777777777778,
+   "recall": 0.0,
+   "text": "Through the clouds I\u043c rising, Sm,. Let it go."
+  },
+  "duck_onset": {
+   "leak": 0.2,
+   "recall": 0.14814814814814814,
+   "text": "They give according to Im."
+  },
+  "duck_last": {
+   "leak": 0.75,
+   "recall": 0.1111111111111111,
+   "text": "Through the clouds I'm rising,, But smiling, Let it go past occurrences."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.1111111111111111,
+   "text": "They \u043b\u043c discuss belief\u043c refer."
+  },
+  "shift_disagreement": 0.6363636363636364
+ },
+ {
+  "track": "Raft Monk - Tiring",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "Through the clouds, I'm rising, smiling, smiling, let it go."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6296296296296297,
+   "text": "They give laws according to which images of past occurrences come into being, but do not discuss how"
+  },
+  "duck_last": {
+   "leak": 0.7142857142857143,
+   "recall": 0.14814814814814814,
+   "text": "Through the clouds, I'm rising, smiling, smiling. Let it go to past occurrences, which."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.2222222222222222
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.9130434782608695,
+   "recall": 0.08695652173913043,
+   "text": "I got some news in the mail today They say I gotta sound like I ain't saying his name He never said "
+  },
+  "duck_onset": {
+   "leak": 0.13043478260869565,
+   "recall": 0.43478260869565216,
+   "text": "But this last supposition is almost always my mistake. But if there is a similar decaying match on t"
+  },
+  "duck_last": {
+   "leak": 0.8378378378378378,
+   "recall": 0.21739130434782608,
+   "text": "I got some news in the mail today. They say I gotta sound like, I ain't saying his name, he never sa"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary, for if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.5945945945945945
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8863636363636364,
+   "recall": 0.043478260869565216,
+   "text": "I I got some news in a male to say I got sound like I ain't saying his name, he never said my name a"
+  },
+  "duck_onset": {
+   "leak": 0.7560975609756098,
+   "recall": 0.13043478260869565,
+   "text": "But this last up opposition Hey, say I got sound like I ain't saying his name, he never said my name"
+  },
+  "duck_last": {
+   "leak": 0.7941176470588235,
+   "recall": 0.13043478260869565,
+   "text": "I I got some news in a male to say I got sound like I ain't saying his name, he never said my name a"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.17391304347826086,
+   "text": "But unnecessary for man principle,."
+  },
+  "shift_disagreement": 0.5294117647058824
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9069767441860465,
+   "recall": 0.08695652173913043,
+   "text": "I got some news in the mail today. They say I gotta sound like I ain't saying his name. He never sai"
+  },
+  "duck_onset": {
+   "leak": 0.2,
+   "recall": 0.2608695652173913,
+   "text": "But this last supposition is almost as foolish as this."
+  },
+  "duck_last": {
+   "leak": 0.8461538461538461,
+   "recall": 0.17391304347826086,
+   "text": "I got some news in the mail today. They say I gotta sound like I ain't saying his name. He never sai"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.6153846153846154
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8604651162790697,
+   "recall": 0.2727272727272727,
+   "text": "I got some news in the mail today to say I gotta sound like I ain't saying his name, he never said m"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.9090909090909091,
+   "text": "The Fairview Band was engaged to disperse as much harmony as it could produce. And the resources of "
+  },
+  "duck_last": {
+   "leak": 0.875,
+   "recall": 0.13636363636363635,
+   "text": "I got some news in the mail today to say I gotta sound like I ain't saying his name. He never said m"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.6216216216216216
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8604651162790697,
+   "recall": 0.18181818181818182,
+   "text": "I I got some news in a male day to say I gotta sound like I ain't saying his name, he never said my "
+  },
+  "duck_onset": {
+   "leak": 0.7105263157894737,
+   "recall": 0.36363636363636365,
+   "text": "The Fairview band was engaged to to say I sound like I ain't saying his name, he never said my name "
+  },
+  "duck_last": {
+   "leak": 0.7142857142857143,
+   "recall": 0.18181818181818182,
+   "text": "I I got some news a male to say I gotta sound like I ain't saying his name, he never said my name an"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9545454545454546,
+   "text": "The Fairview band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.5555555555555556
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.813953488372093,
+   "recall": 0.2727272727272727,
+   "text": "I got some news in the mail today to say I gotta sound like I ain't saying his name. He never said m"
+  },
+  "duck_onset": {
+   "leak": 0.04,
+   "recall": 0.45454545454545453,
+   "text": "The Fairview Band was engaged to discuss as my company president. Every resource of the company hous"
+  },
+  "duck_last": {
+   "leak": 0.7368421052631579,
+   "recall": 0.2727272727272727,
+   "text": "I got some news in the mail today to say I gotta sound like I ain't saying his name. He never said m"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.5277777777777778
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8205128205128205,
+   "recall": 0.16666666666666666,
+   "text": "I got some news in the mail today to say I gotta sound like I ain't saying his name He never said my"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.20833333333333334,
+   "text": "It was silent and gloomy."
+  },
+  "duck_last": {
+   "leak": 0.7567567567567568,
+   "recall": 0.20833333333333334,
+   "text": "I got some news in the mail today to say I gotta sound like I ain't saying his name. He never said m"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.631578947368421
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.7631578947368421,
+   "recall": 0.16666666666666666,
+   "text": "I got some news in a male to say I got sound like I ain't saying his name, he never said my name and"
+  },
+  "duck_onset": {
+   "leak": 0.6216216216216216,
+   "recall": 0.25,
+   "text": "It was silent and gloomy. to say I got sound like I ain't saying his name, he never said my name and"
+  },
+  "duck_last": {
+   "leak": 0.7647058823529411,
+   "recall": 0.125,
+   "text": "I got some news in the male to say I got gotta sound like I ain't saying his name, he never said my "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9166666666666666,
+   "text": "It was silent and gloomy, being ten solely by the captive and lighted by the dying embers of a fire "
+  },
+  "shift_disagreement": 0.48484848484848486
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.7674418604651163,
+   "recall": 0.16666666666666666,
+   "text": "I got some news in a mail today to say I gotta sound like I ain't saying his name. He never said my "
+  },
+  "duck_onset": {
+   "leak": 0.65,
+   "recall": 0.25,
+   "text": "It was silent and gloomy. Hey, to say I gotta sound like I ain't saying his name. He never said my n"
+  },
+  "duck_last": {
+   "leak": 0.7631578947368421,
+   "recall": 0.125,
+   "text": "I got some news in a mail today to say I gotta sound like I ain't saying his name. He never said my "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.5555555555555556
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.9111111111111111,
+   "recall": 0.07407407407407407,
+   "text": "I got some news in the mail today They say I gotta sound like I ain't saying his name He never said "
+  },
+  "duck_onset": {
+   "leak": 0.1875,
+   "recall": 0.25925925925925924,
+   "text": "They give laws according to which images are passed on to the children and the parents."
+  },
+  "duck_last": {
+   "leak": 0.16129032258064516,
+   "recall": 0.48148148148148145,
+   "text": "They give you all some according to which of the names are past occurrences and then they're not. Bu"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.5833333333333333
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.9024390243902439,
+   "recall": 0.037037037037037035,
+   "text": "I got some news in a male say I got sound like I ain't saying his name, he never said my name and I "
+  },
+  "duck_onset": {
+   "leak": 0.725,
+   "recall": 0.25925925925925924,
+   "text": "They give walls according to which images, I got sound like I ain't saying his name, he never said m"
+  },
+  "duck_last": {
+   "leak": 0.896551724137931,
+   "recall": 0.07407407407407407,
+   "text": "I got some news male to say I got sound like I ain't saying his name, he never said my name and I my"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.4444444444444444,
+   "text": "They give walls which images past occur into minds, not discuss belief these images refer past occur"
+  },
+  "shift_disagreement": 0.5151515151515151
+ },
+ {
+  "track": "Side Effects Project - Sing With Me",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9111111111111111,
+   "recall": 0.07407407407407407,
+   "text": "I got some news in the mail today. They say I gotta sound like I ain't saying his name. He never sai"
+  },
+  "duck_onset": {
+   "leak": 0.06666666666666667,
+   "recall": 0.37037037037037035,
+   "text": "They give laws according to which images of past centuries and times are not discussed."
+  },
+  "duck_last": {
+   "leak": 0.8108108108108109,
+   "recall": 0.2222222222222222,
+   "text": "I got some news in the mail today. They say I gotta sound like I ain't saying his name. He never sai"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.641025641025641
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "Never let it run me down. Never let it run me down."
+  },
+  "duck_onset": {
+   "leak": 0.05,
+   "recall": 0.43478260869565216,
+   "text": "But this last supposition is almost always wrong. For if the narrative is actually managed, it's imp"
+  },
+  "duck_last": {
+   "leak": 0.5,
+   "recall": 0.13043478260869565,
+   "text": "never let it she will not"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary, for if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.2857142857142857
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "Never let it Run me down, Never let it."
+  },
+  "duck_onset": {
+   "leak": 0.2222222222222222,
+   "recall": 0.21739130434782608,
+   "text": "But this last supp opposition is almost run the."
+  },
+  "duck_last": {
+   "leak": 0.42857142857142855,
+   "recall": 0.17391304347826086,
+   "text": "Never let opposition is all run down never let manage principles, she will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.043478260869565216,
+   "text": "\ufffd\u044d last\u043c unnecessary\u044d\u044d \u0431\u0433 principle,."
+  },
+  "shift_disagreement": 0.4444444444444444
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.08695652173913043,
+   "recall": 0.5217391304347826,
+   "text": "But the same supposition is almost always a false one. For if Mary had been virtually managed by the"
+  },
+  "duck_onset": {
+   "leak": 0.047619047619047616,
+   "recall": 0.6086956521739131,
+   "text": "But this last supposition is almost always impossible, for if Mary could have virtually managed the "
+  },
+  "duck_last": {
+   "leak": 0.047619047619047616,
+   "recall": 0.5217391304347826,
+   "text": "But the same supposition is almost always a false one. For if Mary is virtually managed by principle"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary, for if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.6799999999999999
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8333333333333334,
+   "recall": 0.0,
+   "text": "Never let up! Run me down! Never let up! Run me down!"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6818181818181818,
+   "text": "The Fairview Band was engaged to discourse and to teach the world as it could produce and to be a pa"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.8636363636363636,
+   "text": "The Fairbairn Band was engaged to discourse as a child as it could produce, and the resources of the"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.2857142857142857
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.07142857142857142,
+   "recall": 0.5,
+   "text": "Never band was engaged to discourse as a and forces of the Great House."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5454545454545454,
+   "text": "The Fairview band was engaged to discourse as a and of the Great House."
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.5454545454545454,
+   "text": "The pair band was engaged to discourse as a and of the Great House attacks to entertain the guest."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "The Fairview band engaged to discourse as much harmony as could produce the resources of the Great H"
+  },
+  "shift_disagreement": 0.3529411764705882
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.9090909090909091,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.9090909090909091,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.9545454545454546,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.33333333333333337
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8333333333333334,
+   "recall": 0.0,
+   "text": "Never let up! Run me down! Never let up! Run me down!"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5833333333333334,
+   "text": "It was silent and gloomy, being tenanted and slain by the capital, and lighted by the 900-mile-a-fir"
+  },
+  "duck_last": {
+   "leak": 0.8,
+   "recall": 0.0,
+   "text": "Never let out Run me down Never let out Run"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a "
+  },
+  "shift_disagreement": 0.0
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.6363636363636364,
+   "recall": 0.08333333333333333,
+   "text": "Never let it from the down, never let it run down."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.625,
+   "text": "It was silent and gloomy being temptedmented the and by the under of a fire which had been for the."
+  },
+  "duck_last": {
+   "leak": 0.2857142857142857,
+   "recall": 0.20833333333333334,
+   "text": "Never let it out from the never let out fire for the purpose of."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.25,
+   "text": "It was silent glo ten sole lightbers had used for."
+  },
+  "shift_disagreement": 0.8181818181818181
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.6666666666666666,
+   "recall": 0.041666666666666664,
+   "text": "Never let it put me down. Never let it put me down."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.875,
+   "text": "It was silent and gloomy, being tenanted solely by the captain, and lighted by the dying embers of a"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.875,
+   "text": "It was small and gloomy, being tenanted solely by the captain, and lighted by the dying embers of a "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.9615384615384616
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8333333333333334,
+   "recall": 0.0,
+   "text": "Never let out! Run me down! Never let out! Run me down!"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.37037037037037035,
+   "text": "They give laws according to which images of past crimes are not discussed."
+  },
+  "duck_last": {
+   "leak": 0.037037037037037035,
+   "recall": 0.5555555555555556,
+   "text": "They give laws according to which images of past occurrences are not allowed, but do not discuss how"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.7777777777777778,
+   "text": "They give walls according to which images of past occurrences come into our minds, but do not discus"
+  },
+  "shift_disagreement": 0.2857142857142857
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "Never let it run me down, never let it run me down."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.2222222222222222,
+   "text": "They give according to which images."
+  },
+  "duck_last": {
+   "leak": 0.2222222222222222,
+   "recall": 0.25925925925925924,
+   "text": "Never love according to which images have passed from the, never let these images to past occurrence"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.2222222222222222,
+   "text": "They give occur discuss belief images refer occur."
+  },
+  "shift_disagreement": 0.6153846153846154
+ },
+ {
+  "track": "BKS - Bulldozer",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.038461538461538464,
+   "recall": 0.6296296296296297,
+   "text": "They give laws according to which images of past occurrences are allowed, but do not discuss how the"
+  },
+  "duck_onset": {
+   "leak": 0.037037037037037035,
+   "recall": 0.5555555555555556,
+   "text": "They give laws according to which images of past occurrences are allowed, but do not discuss how the"
+  },
+  "duck_last": {
+   "leak": 0.038461538461538464,
+   "recall": 0.6296296296296297,
+   "text": "They give laws according to which images of past occurrences are allowed, but do not discuss how the"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.3913043478260869
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "Yeah."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6521739130434783,
+   "text": "But this last supposition is almost always consistent. For if Mary has been a habitual marriage, I w"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "She will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary, for if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 1.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.5,
+   "recall": 0.0,
+   "text": "Fade the way you know, Without nothing take us down."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "But this last opposition."
+  },
+  "duck_last": {
+   "leak": 0.16666666666666666,
+   "recall": 0.13043478260869565,
+   "text": "F nothing takerin, she will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.0,
+   "text": "\ufffd\u044d\u044d \u0431\u0433\u044d,."
+  },
+  "shift_disagreement": 0.7
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.5652173913043478,
+   "text": "But the last position is almost always being considered, for if marriage has been virtually managed,"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.782608695652174,
+   "text": "But this last supposition is almost always necessary, for if marriage has been habitually managed on"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.6086956521739131,
+   "text": "But the last position is almost always being considered, if marriage has been virtually managed. On "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.64
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.7727272727272727,
+   "text": "The fair little fair was engaged to discourse as no charm as it could produce, and the resources of "
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.9090909090909091,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "The Fairville Fair was engaged to discourse as no department as it could produce, and the resources "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.3913043478260869
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.18181818181818182,
+   "recall": 0.18181818181818182,
+   "text": "F have nothing take a is great to entertain the guest."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6818181818181818,
+   "text": "The Fairview band was engaged to divorce as the as could produce as the resources of the Great House"
+  },
+  "duck_last": {
+   "leak": 0.07692307692307693,
+   "recall": 0.36363636363636365,
+   "text": "F was to nothing could of the great Houseacks to entertain the guests."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.6818181818181818,
+   "text": "Theview band was engaged discourse as much harmony could produce the resources Great were \u0442 entertai"
+  },
+  "shift_disagreement": 0.6666666666666667
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "The fair repair was engaged to discourse as much harmony as it could produce, and the resources of t"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.9090909090909091,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "The fair repair was engaged to discourse as much money as it could produce, and the resources of the"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.36363636363636365
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.6363636363636364,
+   "recall": 0.041666666666666664,
+   "text": "The way you know We'll let nothing take us down Yeah"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5833333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captain, and lightened by the dying owners of"
+  },
+  "duck_last": {
+   "leak": 0.3333333333333333,
+   "recall": 0.16666666666666666,
+   "text": "The way you know. Will let nothing take us down. For the purpose of cookery."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a "
+  },
+  "shift_disagreement": 0.36363636363636365
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.5555555555555556,
+   "recall": 0.0,
+   "text": "Fade way you know Without nothing take us down."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.20833333333333334,
+   "text": "It was silent and gloomy."
+  },
+  "duck_last": {
+   "leak": 0.3333333333333333,
+   "recall": 0.16666666666666666,
+   "text": "For way Without nothing take us down for the purpose of Cookery."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.08333333333333333,
+   "text": "It silent glo ten lightbers usedary."
+  },
+  "shift_disagreement": 0.33333333333333337
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.6666666666666666,
+   "text": "The silhouettes of the animals being illuminated, told me about the captive, and lighted by the dyin"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.875,
+   "text": "It was silent and gloomy, being tenanted solely by the captain, and lighted by the dying embers of a"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.7916666666666666,
+   "text": "It was silent and dimly lit, illuminated solely by the captured and lighted by the dying embers of a"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.7857142857142857
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "yeah"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.48148148148148145,
+   "text": "They give laws according to which images of past practice are used in their homes, but do not discus"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.037037037037037035,
+   "text": "which"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 1.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.0,
+   "text": "F Without a."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.18518518518518517,
+   "text": "They give according to which Im."
+  },
+  "duck_last": {
+   "leak": 0.25,
+   "recall": 0.07407407407407407,
+   "text": "But take a occurrences."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.2222222222222222,
+   "text": "They give walls\u043c past \u043c discuss belief\u044d images refer past."
+  },
+  "shift_disagreement": 1.0
+ },
+ {
+  "track": "The Easton Ellises - Falcon 69",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.5555555555555556,
+   "text": "They give rules according to which images of past occurrences are used in our minds, but do not disc"
+  },
+  "duck_onset": {
+   "leak": 0.037037037037037035,
+   "recall": 0.5185185185185185,
+   "text": "They give laws according to which images of past occurrences can be used to analyze, but do not disc"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.6666666666666666,
+   "text": "They give rules according to which images of past occurrences are used in our minds, but do not disc"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.56
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8823529411764706,
+   "recall": 0.043478260869565216,
+   "text": "The dig breaks the case, another route might end the chase But never give up your hope"
+  },
+  "duck_onset": {
+   "leak": 0.45454545454545453,
+   "recall": 0.21739130434782608,
+   "text": "But this last supposition is all I want to say. Another rude might end the chase. But never give up "
+  },
+  "duck_last": {
+   "leak": 0.5909090909090909,
+   "recall": 0.21739130434782608,
+   "text": "The dig breaks the case, and now the rude might end the chase. But never give up your principle. She"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.38888888888888884
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8125,
+   "recall": 0.0,
+   "text": "That dick breaks the case. Another rude might end the chase. Never give up your hope."
+  },
+  "duck_onset": {
+   "leak": 0.42105263157894735,
+   "recall": 0.2608695652173913,
+   "text": "But this last supp opposition is all another and the chase has been habitual Never give up your hope"
+  },
+  "duck_last": {
+   "leak": 0.6,
+   "recall": 0.21739130434782608,
+   "text": "That breaks the case. Another rude might end the chase has been habitual never give up your, she wil"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.0,
+   "text": "\u0411\u044d\u043c\u044d\u044d\u044d \u0431\u044d,\u044d."
+  },
+  "shift_disagreement": 0.5294117647058824
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.7,
+   "recall": 0.17391304347826086,
+   "text": "That it breaks the case, another route might end the chase. But never give up your hope. She will no"
+  },
+  "duck_onset": {
+   "leak": 0.09523809523809523,
+   "recall": 0.6086956521739131,
+   "text": "But this last supposition is almost always almost the same. For fifty years has been habitually the "
+  },
+  "duck_last": {
+   "leak": 0.65,
+   "recall": 0.21739130434782608,
+   "text": "That it breaks the case, another route might end the chase. But never give up your principle. She wi"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.90625
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.47368421052631576,
+   "recall": 0.09090909090909091,
+   "text": "The dick breaks the case, and now the rude mind ends the chase. But never give up your hope."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6363636363636364,
+   "text": "The Fairview Band was engaged to disclose as much fun as we could produce and the resources that the"
+  },
+  "duck_last": {
+   "leak": 0.5625,
+   "recall": 0.045454545454545456,
+   "text": "The dick breaks the case. Another rude mind ends the chase. But never give up your..."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "the fairview band was engaged to discourse as much harmony as it could produce and the resources of "
+  },
+  "shift_disagreement": 0.33333333333333337
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.4375,
+   "recall": 0.13636363636363635,
+   "text": "The the case Another bite ends the chase And the resources never give up your heart."
+  },
+  "duck_onset": {
+   "leak": 0.21428571428571427,
+   "recall": 0.4090909090909091,
+   "text": "The Fairview band was engaged to discuss as chase and the resources never up."
+  },
+  "duck_last": {
+   "leak": 0.35714285714285715,
+   "recall": 0.22727272727272727,
+   "text": "And the chase And the resources never give up your to entertain the guest."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.6363636363636364,
+   "text": "The Fairview band was engaged discourse as much harmony could produce resources entertain guests."
+  },
+  "shift_disagreement": 0.23076923076923073
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.47619047619047616,
+   "recall": 0.22727272727272727,
+   "text": "The egg breaks the case, and mother might end the chase, but never give up your hopes to entertain t"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6818181818181818,
+   "text": "The Fairview Band was engaged to display as much harmony as could be, and the resources of the band "
+  },
+  "duck_last": {
+   "leak": 0.47619047619047616,
+   "recall": 0.22727272727272727,
+   "text": "The egg breaks the case, and mother might end the chase, but never give up your axe to entertain the"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.8709677419354839
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.7058823529411765,
+   "recall": 0.041666666666666664,
+   "text": "The dig breaks the case, another rude might end the chase. But never give up your hope!"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5833333333333334,
+   "text": "It was silent and gloomy, being tenaciously and fully proactive, and lighted by the dying embers of "
+  },
+  "duck_last": {
+   "leak": 0.5625,
+   "recall": 0.041666666666666664,
+   "text": "The dig breaks the case, another rude might end the chase. Don't ever give up your..."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 1.0
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.6666666666666666,
+   "recall": 0.041666666666666664,
+   "text": "The breaks the case. Another rude might end the chase.bers Never give up your hope."
+  },
+  "duck_onset": {
+   "leak": 0.26666666666666666,
+   "recall": 0.4166666666666667,
+   "text": "It was silent and gloomy Being end the by the dying embers give up your."
+  },
+  "duck_last": {
+   "leak": 0.47368421052631576,
+   "recall": 0.041666666666666664,
+   "text": "The dick breaks the case. now rude might end the chase. dyingbers never give up your the purpose ofe"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.08333333333333333,
+   "text": "It silent glo tenbers used\u044dary."
+  },
+  "shift_disagreement": 0.5
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.8,
+   "recall": 0.08333333333333333,
+   "text": "That it breaks the case, another route, another chase. But never give up your hope."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5833333333333334,
+   "text": "It was silent and gloomy, being tended solely by the casserole, enlivened by the dying embers of a f"
+  },
+  "duck_last": {
+   "leak": 0.5238095238095238,
+   "recall": 0.25,
+   "text": "That it breaks the case, another route by the chase, but never give up your hope for the purpose of "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.4117647058823529
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.7647058823529411,
+   "recall": 0.07407407407407407,
+   "text": "The dick breaks the case, another rude might end the chase. But never give up your hope."
+  },
+  "duck_onset": {
+   "leak": 0.06896551724137931,
+   "recall": 0.5925925925925926,
+   "text": "They give laws according to which images of past events can be found online, but do not discuss our "
+  },
+  "duck_last": {
+   "leak": 0.15151515151515152,
+   "recall": 0.5555555555555556,
+   "text": "They give laws according to which we can change the past and the present, and end the chase. But do "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.6363636363636364
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.7058823529411765,
+   "recall": 0.1111111111111111,
+   "text": "That dick breaks the case. Another rude might end the chase. our Never give up your hope."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.3333333333333333,
+   "text": "They give laws according to which images discuss our."
+  },
+  "duck_last": {
+   "leak": 0.6666666666666666,
+   "recall": 0.18518518518518517,
+   "text": "The breaks the case. Another rude might end the chase. discuss our belief never give up your occurre"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.2222222222222222,
+   "text": "They give laws\u0433\u044d occur \u043c discuss belief\u044d images refer past occur."
+  },
+  "shift_disagreement": 0.5555555555555556
+ },
+ {
+  "track": "Forkupines - Semantics",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.07692307692307693,
+   "recall": 0.5185185185185185,
+   "text": "They give walls according to which entries of past occurrences can be drawn, but do not discuss our "
+  },
+  "duck_onset": {
+   "leak": 0.04,
+   "recall": 0.5555555555555556,
+   "text": "They give laws according to which images of past occurrences can be drawn, but do not discuss our be"
+  },
+  "duck_last": {
+   "leak": 0.5555555555555556,
+   "recall": 0.2222222222222222,
+   "text": "The case and another might end the chase, but never give up your pursuit to past occurrences, which."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.6538461538461539
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.13636363636363635,
+   "recall": 0.43478260869565216,
+   "text": "But this math supposition is far more than always unnecessary For if the mirror has been a visual ma"
+  },
+  "duck_onset": {
+   "leak": 0.10526315789473684,
+   "recall": 0.4782608695652174,
+   "text": "But this last supposition is always always unnecessary. For if merit has been a ritual match, talk i"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "She will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.96875
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.9047619047619048,
+   "recall": 0.0,
+   "text": "I slowing down. Let's talk about you can spot the wood from the trees in overtime time, talk about i"
+  },
+  "duck_onset": {
+   "leak": 0.7272727272727273,
+   "recall": 0.17391304347826086,
+   "text": "But this last supp opposition is talk about you can spot the wood from the trees in overtime, talk a"
+  },
+  "duck_last": {
+   "leak": 0.75,
+   "recall": 0.13043478260869565,
+   "text": "I slowing down, let's talk about You can spot the wood from the trees in overtime. principal she wil"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.08695652173913043,
+   "text": "But unnecessary,."
+  },
+  "shift_disagreement": 0.2777777777777778
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "I'm slowing down. Let's talk about you. Can spot the wood from the trees in overtime. Talk, talk abo"
+  },
+  "duck_onset": {
+   "leak": 0.05,
+   "recall": 0.5652173913043478,
+   "text": "But this last supposition is almost always unnecessary. For if the man has been provincial, managed "
+  },
+  "duck_last": {
+   "leak": 0.8571428571428571,
+   "recall": 0.13043478260869565,
+   "text": "I'm slowing down. Let's talk about you. Can spot the wood from the trees in overtime. Talk about. Sh"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.2777777777777778
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8421052631578947,
+   "recall": 0.09090909090909091,
+   "text": "slowing down. Let's talk about you. Can spot the wood from the trees in overtime. Talk about it all."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.9090909090909091,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce and the resources of "
+  },
+  "duck_last": {
+   "leak": 0.6666666666666666,
+   "recall": 0.18181818181818182,
+   "text": "slowing down let's talk about you spot the wood from the trees in overtime to entertain the guests"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.17647058823529416
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.75,
+   "recall": 0.09090909090909091,
+   "text": "I slowing down. Let's talk about you can spot the wood from the trees in overimes, talk about it all"
+  },
+  "duck_onset": {
+   "leak": 0.5454545454545454,
+   "recall": 0.3181818181818182,
+   "text": "The Fairview band was engaged to Talk about you can spot the wood from the trees in over, talk about"
+  },
+  "duck_last": {
+   "leak": 0.6,
+   "recall": 0.13636363636363635,
+   "text": "I slowing down, let's talk about you can spot the wood from the trees in overimes. to entertain the "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.5,
+   "text": "The Fairview band was engaged discourse as much harmony resources entertain."
+  },
+  "shift_disagreement": 0.35
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.7619047619047619,
+   "recall": 0.09090909090909091,
+   "text": "I'm slowing down. Let's talk about you. Can spot the wood from the trees in old times. Talk about it"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.8636363636363636,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "duck_last": {
+   "leak": 0.6363636363636364,
+   "recall": 0.18181818181818182,
+   "text": "I'm slowing down. Let's talk about you. Can spot the wood from the trees in old times. Talk to enter"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.368421052631579
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8,
+   "recall": 0.08333333333333333,
+   "text": "slowing down let's talk about you can spot the wood from the trees in overtime we'll talk about it a"
+  },
+  "duck_onset": {
+   "leak": 0.08,
+   "recall": 0.5416666666666666,
+   "text": "It was silent and gloomy, being tenanted solely by the captain, enlightened by the dying members of "
+  },
+  "duck_last": {
+   "leak": 0.8666666666666667,
+   "recall": 0.041666666666666664,
+   "text": "slowing down let's talk about you can spot the wood from the trees in overtime"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a "
+  },
+  "shift_disagreement": 0.2222222222222222
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.75,
+   "recall": 0.08333333333333333,
+   "text": "I down. Let's talk about you can spot the wood from the trees in overtime, we'll talk about it all."
+  },
+  "duck_onset": {
+   "leak": 0.5909090909090909,
+   "recall": 0.25,
+   "text": "It was silent and gloomy. Talk about you can spot the wood from the trees in overtime. We'll talk ab"
+  },
+  "duck_last": {
+   "leak": 0.65,
+   "recall": 0.125,
+   "text": "I slowing down, let's talk about you can spot the wood from the trees in overtime. for the purpose o"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.125,
+   "text": "It was silentomybers used."
+  },
+  "shift_disagreement": 0.05882352941176472
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.8571428571428571,
+   "recall": 0.08333333333333333,
+   "text": "I'm slowing down. Let's talk about you. Can spot the wood from the trees in overtime. Let's talk abo"
+  },
+  "duck_onset": {
+   "leak": 0.12,
+   "recall": 0.625,
+   "text": "It was silent and gloomy, being tinted solely by the captain and lighted by the dying embers of a fi"
+  },
+  "duck_last": {
+   "leak": 0.875,
+   "recall": 0.041666666666666664,
+   "text": "I'm slowing down. Let's talk about you. Can spot the wood from the trees in overtime."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.33333333333333337
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "slowing down let's talk about you can spot the wood from the trees in overtime talk about it all"
+  },
+  "duck_onset": {
+   "leak": 0.125,
+   "recall": 0.5555555555555556,
+   "text": "They give laws according to which images are possible to show into our eyes. But do not discuss our "
+  },
+  "duck_last": {
+   "leak": 0.9375,
+   "recall": 0.037037037037037035,
+   "text": "slowing down let's talk about you can spot the wood from the trees in overtime which"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.125
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.9,
+   "recall": 0.0,
+   "text": "I slowing down. Let's talk about you can spot the wood from the trees and overtime, talk about it al"
+  },
+  "duck_onset": {
+   "leak": 0.6521739130434783,
+   "recall": 0.25925925925925924,
+   "text": "They give laws according to which images talk about you can spot the wood from the trees and overtim"
+  },
+  "duck_last": {
+   "leak": 0.875,
+   "recall": 0.0,
+   "text": "Iowing down, let's talk about you can spot the wood from the trees in overtime crisis."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.3333333333333333,
+   "text": "They give which images past, discuss belief these images refer past occur."
+  },
+  "shift_disagreement": 0.3157894736842105
+ },
+ {
+  "track": "Ben Carrigan - We'll Talk About It All Tonight",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9,
+   "recall": 0.0,
+   "text": "I'm slowing down. Let's talk about you and cut the wood from the trees in overtime. Talk about it al"
+  },
+  "duck_onset": {
+   "leak": 0.14285714285714285,
+   "recall": 0.48148148148148145,
+   "text": "They give laws according to which images are passed on to us and into our minds. They do not discuss"
+  },
+  "duck_last": {
+   "leak": 0.85,
+   "recall": 0.1111111111111111,
+   "text": "I'm slowing down. Let's talk about you. Can spot the wood from the trees in overtime. Talk to past o"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.44999999999999996
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.8,
+   "recall": 0.043478260869565216,
+   "text": "into the shining light always you're standing by my side"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.30434782608695654,
+   "text": "but this last supposition is always unnecessary."
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "She will not"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary, for if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.4285714285714286
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.875,
+   "recall": 0.0,
+   "text": "Until the shining light, You're standing by my side. Hand and hand, we watch the light."
+  },
+  "duck_onset": {
+   "leak": 0.5238095238095238,
+   "recall": 0.30434782608695654,
+   "text": "But this last supp opposition is always unnecessary You're standing by my side literally managed han"
+  },
+  "duck_last": {
+   "leak": 0.5625,
+   "recall": 0.21739130434782608,
+   "text": "Until the shining light, always you're standing by my side managed hand principal she will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.21739130434782608,
+   "text": "But last supp almost always unnecessary\u044d\u044d \u0431\u044d principle,."
+  },
+  "shift_disagreement": 0.33333333333333337
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9375,
+   "recall": 0.0,
+   "text": "Into the shining light, you're standing by my side. Hand in hand, we watch the light."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5217391304347826,
+   "text": "But this last supposition is always unnecessary, for it has been habitually managed."
+  },
+  "duck_last": {
+   "leak": 0.6875,
+   "recall": 0.17391304347826086,
+   "text": "Into the shining light, you're standing by my side, hand in hand. Principle, she will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.07692307692307687
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.7647058823529411,
+   "recall": 0.13636363636363635,
+   "text": "And to the shining light, you're standing by my side. Hand in hand we watch the light."
+  },
+  "duck_onset": {
+   "leak": 0.4444444444444444,
+   "recall": 0.36363636363636365,
+   "text": "The Fairview band was engaged by my side of the great hand and hand we watch the light"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.18181818181818182,
+   "text": "...to entertain the guests."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.1428571428571429
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8125,
+   "recall": 0.045454545454545456,
+   "text": "Until the shining light, you're standing by my side. Hand in hand, we watch the light."
+  },
+  "duck_onset": {
+   "leak": 0.5,
+   "recall": 0.3181818181818182,
+   "text": "The Fairview band was engaged As You're standing by my side of the Hand hand we watch the."
+  },
+  "duck_last": {
+   "leak": 0.5294117647058824,
+   "recall": 0.18181818181818182,
+   "text": "Until the shining light, you're standing by my side of the hand hand to entertain the guest."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "The Fairview band was engaged to discourse as much harmony as could produce the resources of the Gre"
+  },
+  "shift_disagreement": 0.1428571428571429
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.8125,
+   "recall": 0.045454545454545456,
+   "text": "Until the shining light, you're standing by my side. Hand in hand, we watch the light."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5909090909090909,
+   "text": "The Fairview Band was engaged to discourse as much harmony as the resources of the great time togeth"
+  },
+  "duck_last": {
+   "leak": 0.625,
+   "recall": 0.18181818181818182,
+   "text": "Until the shining light, you're standing by my side, hand in hand, to entertain the guests."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.07692307692307687
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.75,
+   "recall": 0.08333333333333333,
+   "text": "Into the shining light, you're standing by my side. Hand in hand we watch the light."
+  },
+  "duck_onset": {
+   "leak": 0.07407407407407407,
+   "recall": 0.5833333333333334,
+   "text": "It was silent and gloomy, being tempted solely by the candle and the light by the diamonds of a fire"
+  },
+  "duck_last": {
+   "leak": 0.625,
+   "recall": 0.08333333333333333,
+   "text": "into the shining light. You're standing by my side. Hand in hand we wash the land."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.07692307692307687
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.7333333333333333,
+   "recall": 0.08333333333333333,
+   "text": "Until the shining light, You're standing by my side. Hand in hand, we watch the."
+  },
+  "duck_onset": {
+   "leak": 0.4117647058823529,
+   "recall": 0.3333333333333333,
+   "text": "It was silent and gloomy. You're standing by my side of Hand and hand we watched the."
+  },
+  "duck_last": {
+   "leak": 0.6666666666666666,
+   "recall": 0.08333333333333333,
+   "text": "Until the shining light, You're standing by my side Hand hand the."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.75,
+   "text": "It was silent bloomy Being ten solely by captive and lighted by dying embers of a fire which had use"
+  },
+  "shift_disagreement": 0.2142857142857143
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.7333333333333333,
+   "recall": 0.08333333333333333,
+   "text": "Into the shining light, you're standing by my side. Hand in hand, we watch the"
+  },
+  "duck_onset": {
+   "leak": 0.21739130434782608,
+   "recall": 0.5,
+   "text": "It was silent and gloomy. Intended solely for the hands, the light was of a fire which, hand in hand"
+  },
+  "duck_last": {
+   "leak": 0.75,
+   "recall": 0.08333333333333333,
+   "text": "Into the shining light, you're standing by my side, hand in hand."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.07692307692307687
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.9375,
+   "recall": 0.037037037037037035,
+   "text": "into the shining light. You're standing by my side. Hand in hand we watch the light."
+  },
+  "duck_onset": {
+   "leak": 0.125,
+   "recall": 0.7037037037037037,
+   "text": "They give laws according to which images of past occurrences come into their minds, but do not discu"
+  },
+  "duck_last": {
+   "leak": 0.9375,
+   "recall": 0.037037037037037035,
+   "text": "into the shining light. You're standing by my side. Hand in hand we watch the light."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.15384615384615385
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.9375,
+   "recall": 0.037037037037037035,
+   "text": "Into the shining light, You're standing by my side. Hand in hand, we watch the light."
+  },
+  "duck_onset": {
+   "leak": 0.5714285714285714,
+   "recall": 0.2962962962962963,
+   "text": "They give laws according to which images has come in. You're standing by my side Hand hand we watch "
+  },
+  "duck_last": {
+   "leak": 0.9090909090909091,
+   "recall": 0.0,
+   "text": "Intnto the shining light, you're standing by my side hand hand."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.4444444444444444,
+   "text": "They give according which images past occur into minds, discuss belief these images refer past occur"
+  },
+  "shift_disagreement": 0.2142857142857143
+ },
+ {
+  "track": "Girls Under Glass - We Feel Alright",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9375,
+   "recall": 0.037037037037037035,
+   "text": "Into the shining light, you're standing by my side. Hand in hand, we watch the light."
+  },
+  "duck_onset": {
+   "leak": 0.038461538461538464,
+   "recall": 0.7037037037037037,
+   "text": "They give laws according to which images of past occurrences come into their mind, but do not discus"
+  },
+  "duck_last": {
+   "leak": 0.6875,
+   "recall": 0.18518518518518517,
+   "text": "Into the shining light, you're standing by my side, hand in hand to past occurrences, which."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.07692307692307687
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.1111111111111111,
+   "recall": 0.17391304347826086,
+   "text": "It's all man, not this episode. She will not."
+  },
+  "duck_onset": {
+   "leak": 0.041666666666666664,
+   "recall": 0.5217391304347826,
+   "text": "But this last supposition is always old and uncertain. What if man was a little bit more vigilant on"
+  },
+  "duck_last": {
+   "leak": 0.9130434782608695,
+   "recall": 0.0,
+   "text": "away. Brave enough to say that it's now or never. Pulling at the seams cause it seems to me that you"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.9615384615384616
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8333333333333334,
+   "recall": 0.043478260869565216,
+   "text": "F brave enough to say that it's now or never pulling out this seems, cause it seems to me that you w"
+  },
+  "duck_onset": {
+   "leak": 0.6956521739130435,
+   "recall": 0.17391304347826086,
+   "text": "But this last supp opposition is brave to say that it's now or pulling out seems cause it seems to m"
+  },
+  "duck_last": {
+   "leak": 0.631578947368421,
+   "recall": 0.21739130434782608,
+   "text": "This brave enough to say that it's now or pulling out this cause it seems principle she will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.043478260869565216,
+   "text": "But\u044d unnecessary\u044d\u044d \u0431\u044d principle,."
+  },
+  "shift_disagreement": 0.19047619047619047
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "Brave enough to say that it's now or never. Pulling at the seams, 'cause it seems to me that you and"
+  },
+  "duck_onset": {
+   "leak": 0.72,
+   "recall": 0.2608695652173913,
+   "text": "But this last supposition is always false. It's now or never. Pulling at the seams, 'cause it seems "
+  },
+  "duck_last": {
+   "leak": 0.7083333333333334,
+   "recall": 0.043478260869565216,
+   "text": "A brave enough to say that it's now or never. Pulling at the seams, 'cause it's time to leave. But y"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.09999999999999998
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.75,
+   "recall": 0.18181818181818182,
+   "text": "away. Brave enough to say that it's now or never. Pulling at the seams cause it seems to me that you"
+  },
+  "duck_onset": {
+   "leak": 0.03571428571428571,
+   "recall": 0.7727272727272727,
+   "text": "The Fairview Band was engaged to discourse as much harmony as possible for the audience. And the res"
+  },
+  "duck_last": {
+   "leak": 0.6190476190476191,
+   "recall": 0.22727272727272727,
+   "text": "away. Brave enough to say that it's now or never. Pulling at the seams cause it seems to entertain t"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.09999999999999998
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.5652173913043478,
+   "recall": 0.18181818181818182,
+   "text": "B brave enough to say that it's now one never pulling out the siege, cause it seems to me that you w"
+  },
+  "duck_onset": {
+   "leak": 0.5185185185185185,
+   "recall": 0.36363636363636365,
+   "text": "The Fairview band was engaged to brave enough to say that it's now or never pulling out the, cause i"
+  },
+  "duck_last": {
+   "leak": 0.5714285714285714,
+   "recall": 0.13636363636363635,
+   "text": "I brave enough to say that it's now or never pulling out the seat, cause it's seems to entertain the"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "The Fairview band was engaged to discourse as much harmony as could produce the resources of the Gre"
+  },
+  "shift_disagreement": 0.29166666666666663
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.6956521739130435,
+   "recall": 0.18181818181818182,
+   "text": "Brave enough to say that it's now or never. Pulling out the seats, 'cause it seems to me that you an"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6818181818181818,
+   "text": "The Fairview Band was engaged to disperse as much harmony as possible. The resources of the great ho"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.6818181818181818,
+   "text": "The royal pair was engaged to discourse as much heartily as a board president. The resources of the "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.09999999999999998
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.782608695652174,
+   "recall": 0.125,
+   "text": "away. Brave enough to say that it's now or never. Pulling out the seams cause it seems to me that yo"
+  },
+  "duck_onset": {
+   "leak": 0.6785714285714286,
+   "recall": 0.2916666666666667,
+   "text": "It was silent and gloomy, being... Brave enough to say that it's now or never Pulling at the seams, "
+  },
+  "duck_last": {
+   "leak": 0.782608695652174,
+   "recall": 0.125,
+   "text": "away. Brave enough to say that it's now or never. Pulling out the seams cause it seems to me that yo"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a "
+  },
+  "shift_disagreement": 0.30434782608695654
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.7391304347826086,
+   "recall": 0.041666666666666664,
+   "text": "B brave enough to say that it's now or never pulling out this seems, cause it seems to me that you w"
+  },
+  "duck_onset": {
+   "leak": 0.6296296296296297,
+   "recall": 0.20833333333333334,
+   "text": "It was silent and gloomy brave enough to say that it's now or never pulling out this seems cause it "
+  },
+  "duck_last": {
+   "leak": 0.6,
+   "recall": 0.125,
+   "text": "Bra enough to say that it's now or never pulling out this seems cause it seems the purpose of Cook."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.125,
+   "text": "It was silent glo \u0442 \u0441 \u0431 used\u044d."
+  },
+  "shift_disagreement": 0.34782608695652173
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.782608695652174,
+   "recall": 0.125,
+   "text": "Being brave enough to say that it's now or never, pulling at the seams, 'cause it seems to me that y"
+  },
+  "duck_onset": {
+   "leak": 0.034482758620689655,
+   "recall": 0.7083333333333334,
+   "text": "It was silent and gloomy, being painted into a soul by a spectre, enlivened by the dying embers of a"
+  },
+  "duck_last": {
+   "leak": 0.7368421052631579,
+   "recall": 0.125,
+   "text": "Being brave enough to say that it's now or never, pulling at the seams 'cause it seems too late."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.2272727272727273
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "It's"
+  },
+  "duck_onset": {
+   "leak": 0.07142857142857142,
+   "recall": 0.25925925925925924,
+   "text": "They give walls according to which images have passed through the time of time."
+  },
+  "duck_last": {
+   "leak": 0.06666666666666667,
+   "recall": 0.2962962962962963,
+   "text": "They give the whole world a point of view to images of past occurrences, which"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.7777777777777778,
+   "text": "They give walls according to which images of past occurrences come into our minds, but do not discus"
+  },
+  "shift_disagreement": 0.9473684210526316
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.625,
+   "recall": 0.07407407407407407,
+   "text": "I brave enough to say that it's now one never pulling out this seems, cause it seems to me that you "
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.2222222222222222,
+   "text": "They give walls according to which images."
+  },
+  "duck_last": {
+   "leak": 0.6470588235294118,
+   "recall": 0.07407407407407407,
+   "text": "I brave enough to say that it's now one never pulling out this seems cause it seems."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.18518518518518517,
+   "text": "They give\u044d images discuss belief images refer."
+  },
+  "shift_disagreement": 0.10526315789473684
+ },
+ {
+  "track": "Bobby Nobody - Stitch Up",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.76,
+   "recall": 0.07407407407407407,
+   "text": "So wait. Brave enough to say that it's now or never. Pulling at the seams, 'cause it seems to me tha"
+  },
+  "duck_onset": {
+   "leak": 0.05263157894736842,
+   "recall": 0.4074074074074074,
+   "text": "They give laws according to which images of persons are detained, but do not establish arbitrary and"
+  },
+  "duck_last": {
+   "leak": 0.5161290322580645,
+   "recall": 0.2962962962962963,
+   "text": "They give laws according to which images are brave enough to say that it's now or never. Pulling out"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.2272727272727273
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "I'm alright"
+  },
+  "duck_onset": {
+   "leak": 0.6086956521739131,
+   "recall": 0.2608695652173913,
+   "text": "But this last supposition is always a mistake. I'm alright. As I pick up the pieces that I left to m"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "she will not"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.875
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.9130434782608695,
+   "recall": 0.0,
+   "text": "I I am falling. Does anybody hear me call? I'm alright As I pick up the pieces that I better me, I'm"
+  },
+  "duck_onset": {
+   "leak": 0.6521739130434783,
+   "recall": 0.13043478260869565,
+   "text": "But this last a opposition anybody hear me call, I'm alright as pick up the pieces that are better t"
+  },
+  "duck_last": {
+   "leak": 0.782608695652174,
+   "recall": 0.13043478260869565,
+   "text": "I I am falling. Does anybody hear me call? I'm alright as I pick up the pieces that I principal, she"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.2608695652173913,
+   "text": "But this almost unnecessary for principle,."
+  },
+  "shift_disagreement": 0.21052631578947367
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9166666666666666,
+   "recall": 0.0,
+   "text": "Think I am falling? Does anybody hear me calling? I'm alright. As I pick up the pieces that I've lef"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5652173913043478,
+   "text": "But this last supposition is by no means impossible. If Mary has been individually managed by this p"
+  },
+  "duck_last": {
+   "leak": 0.7022900763358778,
+   "recall": 0.043478260869565216,
+   "text": "I am falling. Does anybody hear me calling? I'm alright. As I pick up the pieces that I've been miss"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.36363636363636365
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.8636363636363636,
+   "text": "The therapy camp was engaged to discourse as much harmony as it could produce. And the resources of "
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.9090909090909091,
+   "text": "The Fairview Band was engaged to disperse as much harmony as it could produce, and the resources of "
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.8636363636363636,
+   "text": "The very end was engaged to discourse as much holiday as it could produce, and the resources of the "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.9
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.9047619047619048,
+   "recall": 0.045454545454545456,
+   "text": "I think I am falling am falling. Does anybody hear me calling alright I pick up the that I bet I."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.4090909090909091,
+   "text": "The Fairview band was engaged as as and the resources of."
+  },
+  "duck_last": {
+   "leak": 0.5,
+   "recall": 0.2727272727272727,
+   "text": "I I am falling falling. Does anybody hear me call a? And the of the I to entertain the guests."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9545454545454546,
+   "text": "The Fairview band was engaged to discourse as much harmony as it could produce and the resources of "
+  },
+  "shift_disagreement": 0.6190476190476191
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "Very few were engaged to discourse as much profit as it could produce, and the resources of the grea"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "The Fairview Band was engaged to produce as much talent as it could produce, and the resources of th"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.7272727272727273,
+   "text": "The area was engaged to disburse as much money as it could produce, and the resources of the great h"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.45833333333333337
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.9130434782608695,
+   "recall": 0.041666666666666664,
+   "text": "I am falling. Does anybody hear me calling? I'm alright. As I pick up the pieces that I left to me. "
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.875,
+   "text": "It was silent and gloomy, being tempted, solely by the captive, and lighted by the dying embers of a"
+  },
+  "duck_last": {
+   "leak": 0.4117647058823529,
+   "recall": 0.20833333333333334,
+   "text": "I am falling. Does anybody hear me? All right. By the time. For the purpose of cookery."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a "
+  },
+  "shift_disagreement": 0.11111111111111116
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.85,
+   "recall": 0.041666666666666664,
+   "text": "I I am falling. Does anybody hear me call? I'm alright the pick up the that I left me, I'm."
+  },
+  "duck_onset": {
+   "leak": 0.45454545454545453,
+   "recall": 0.375,
+   "text": "It was silent and gloomy. Anybody hear me call I'm alright by the members of fire the that I left me"
+  },
+  "duck_last": {
+   "leak": 0.5652173913043478,
+   "recall": 0.16666666666666666,
+   "text": "I I am falling falling. Does anybody hear me call? I am alright.ight by the of pick up I've for the "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8333333333333334,
+   "text": "It was silent and gloomy, being ten solely by the captive and light by the dying embers of a fire wh"
+  },
+  "shift_disagreement": 0.33333333333333337
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.8421052631578947,
+   "recall": 0.041666666666666664,
+   "text": "Does anybody hear me calling? I'm alright. As I pick up the pieces that I've left behind, I'm alrigh"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5416666666666666,
+   "text": "It was silent and gloomy. Being confined to a cell all day, illuminated by the dying embers of a fir"
+  },
+  "duck_last": {
+   "leak": 0.8125,
+   "recall": 0.08333333333333333,
+   "text": "Does anybody hear me calling? I'm alright. As I pick up the pieces that I've been."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.05555555555555558
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "I'm alright"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6296296296296297,
+   "text": "They give laws according to which images of past experiences cannot be told by our minds, but do not"
+  },
+  "duck_last": {
+   "leak": 0.8571428571428571,
+   "recall": 0.037037037037037035,
+   "text": "I am falling. Does anybody hear me calling? I'm alright. As I pick up the pieces that I've been. I'm"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.875
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8636363636363636,
+   "recall": 0.07407407407407407,
+   "text": "I falling. Does anybody hear me call? I'm alright as I pick up the pieces that I left to me, I'm alr"
+  },
+  "duck_onset": {
+   "leak": 0.3076923076923077,
+   "recall": 0.2962962962962963,
+   "text": "They give walls according to which images me not discuss pick I'm alright."
+  },
+  "duck_last": {
+   "leak": 0.5882352941176471,
+   "recall": 0.18518518518518517,
+   "text": "I falling in Does anybody hear me call? not discuss pick up the that I past occurrences."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.6666666666666666,
+   "text": "They give walls according to which images of past occur into our minds, but do not discuss our belie"
+  },
+  "shift_disagreement": 0.21052631578947367
+ },
+ {
+  "track": "Angels In Amplifiers - I'm Alright",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.08695652173913043,
+   "recall": 0.4074074074074074,
+   "text": "Against walls according to which images of the past events are painted, but do not discuss our belie"
+  },
+  "duck_onset": {
+   "leak": 0.04,
+   "recall": 0.5925925925925926,
+   "text": "They give laws according to which images of past events come into line, but do not discuss our belie"
+  },
+  "duck_last": {
+   "leak": 0.041666666666666664,
+   "recall": 0.4444444444444444,
+   "text": "Against walls according to which images of past events are painted, but do not discuss our beliefs i"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.5384615384615384
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "7021-79730-0008",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "When we're both drowning in my"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6086956521739131,
+   "text": "but this last supposition is almost always unnecessary, for it has been habitually mentioned on this"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.13043478260869565,
+   "text": "she will not"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.625
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "7021-79730-0008",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.9411764705882353,
+   "recall": 0.0,
+   "text": "Calling in your sleep Who needs to breathe the air above when we're both drowning in my."
+  },
+  "duck_onset": {
+   "leak": 0.3333333333333333,
+   "recall": 0.30434782608695654,
+   "text": "But this last supp opposition is almost always to breathe for we both drowning my."
+  },
+  "duck_last": {
+   "leak": 0.4166666666666667,
+   "recall": 0.21739130434782608,
+   "text": "F in your needs to breathe for literally principle, she will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.043478260869565216,
+   "text": "\u0411 \u043b\u043c\u044d\u044d \u0431\u044d principle,."
+  },
+  "shift_disagreement": 0.17647058823529416
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "7021-79730-0008",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9411764705882353,
+   "recall": 0.0,
+   "text": "Fallin' in your sleep. Who needs to breathe the air above when we're both drowning in my."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.5217391304347826,
+   "text": "But this last supposition is almost always unnecessary, for it has been eventually made on this part"
+  },
+  "duck_last": {
+   "leak": 0.7222222222222222,
+   "recall": 0.13043478260869565,
+   "text": "Fallen in your sleep. Who needs to breathe the air above when we're both down? She will not."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8695652173913043,
+   "text": "But this last supposition is almost always unnecessary. For if Mary has been habitually managed on t"
+  },
+  "shift_disagreement": 0.0625
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "6829-68771-0010",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.0,
+   "recall": 0.5,
+   "text": "The therapy will not engage to discourse as much from memory as it could produce. The resources of t"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.8636363636363636,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce and the resources of "
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "The therapy of the moon was engaged to discourse as much from the moon as it could produce and the r"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "the fairview band was engaged to discourse as much harmony as it could produce and the resources of "
+  },
+  "shift_disagreement": 1.0
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "6829-68771-0010",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.2857142857142857,
+   "recall": 0.13636363636363635,
+   "text": "Calling your could of the world in."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.6363636363636364,
+   "text": "The Fairview band was engaged to discourse as much harmon music could pre the resources of the Great"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.6363636363636364,
+   "text": "And to discourse as much harder as it could the resources of the Great House tax to entertain the gu"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.3181818181818182,
+   "text": "The\u044dview band engaged discourse as much harmony resources\u044d entertain."
+  },
+  "shift_disagreement": 0.75
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "6829-68771-0010",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9,
+   "recall": 0.045454545454545456,
+   "text": "Falling in your sleep, who needs the air above drowning?"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.7272727272727273,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce out of the resources "
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.8181818181818182,
+   "text": "The fairies then gave discourse as much harmony as it could produce, and the resources of the great "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 1.0,
+   "text": "The Fairview Band was engaged to discourse as much harmony as it could produce, and the resources of"
+  },
+  "shift_disagreement": 0.25
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "1320-122617-0018",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 0.9333333333333333,
+   "recall": 0.041666666666666664,
+   "text": "in your sleep who needs to breathe the air above when we're both drowning in"
+  },
+  "duck_onset": {
+   "leak": 0.034482758620689655,
+   "recall": 0.625,
+   "text": "It was silent and gloomy, and tenacious, solely for the captive, and lighted by the diamond bullets "
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.16666666666666666,
+   "text": "for the purpose of cookery"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a "
+  },
+  "shift_disagreement": 0.0
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "1320-122617-0018",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.875,
+   "recall": 0.041666666666666664,
+   "text": "C in your sleep Who needs to breathe the air above when we're both drowning in."
+  },
+  "duck_onset": {
+   "leak": 0.14285714285714285,
+   "recall": 0.16666666666666666,
+   "text": "It was silent and goumi we drowning."
+  },
+  "duck_last": {
+   "leak": 0.47058823529411764,
+   "recall": 0.20833333333333334,
+   "text": "All in your sleep needs to breathe the air by when we for the purpose of cookery."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.08333333333333333,
+   "text": "It glo tenbers used."
+  },
+  "shift_disagreement": 0.1875
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "1320-122617-0018",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.875,
+   "recall": 0.041666666666666664,
+   "text": "Fall in your sleep. Who needs to breathe the air above when we're both drowning in?"
+  },
+  "duck_onset": {
+   "leak": 0.16666666666666666,
+   "recall": 0.625,
+   "text": "It was silent and gloomy. The tenanted solely by the captive, enlivened by the dying embers of a fir"
+  },
+  "duck_last": {
+   "leak": 0.8,
+   "recall": 0.041666666666666664,
+   "text": "Fall in your sleep. Who needs to breathe the air above when we're both dreaming?"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.9583333333333334,
+   "text": "It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying embers of a"
+  },
+  "shift_disagreement": 0.06666666666666665
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "8230-279154-0031",
+  "backend": "whisper",
+  "baseline": {
+   "leak": 1.0,
+   "recall": 0.0,
+   "text": "when we're both drowning in my"
+  },
+  "duck_onset": {
+   "leak": 0.06896551724137931,
+   "recall": 0.6666666666666666,
+   "text": "They give walls according to which images of past experiences come into our minds, but do not displa"
+  },
+  "duck_last": {
+   "leak": 0.0,
+   "recall": 0.07407407407407407,
+   "text": "Which is"
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.7777777777777778,
+   "text": "They give walls according to which images of past occurrences come into our minds, but do not discus"
+  },
+  "shift_disagreement": 0.5384615384615384
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "8230-279154-0031",
+  "backend": "ctc",
+  "baseline": {
+   "leak": 0.8823529411764706,
+   "recall": 0.037037037037037035,
+   "text": "All in your sleep who needs to breathe the air above when we're both drowning in my."
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.18518518518518517,
+   "text": "They give according to which image."
+  },
+  "duck_last": {
+   "leak": 0.6111111111111112,
+   "recall": 0.1111111111111111,
+   "text": "We in your sleep Who needs to breathe the air is above when we above to cast occurrences."
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.25925925925925924,
+   "text": "They give according\u043c\u044d occur \u043c, discuss belief these images refer occur."
+  },
+  "shift_disagreement": 0.23529411764705888
+ },
+ {
+  "track": "Georgia Wonder - Siren",
+  "utt": "8230-279154-0031",
+  "backend": "qwen3",
+  "baseline": {
+   "leak": 0.9375,
+   "recall": 0.037037037037037035,
+   "text": "Falling in your sleep, who needs to breathe the air above? When we're both drowning in"
+  },
+  "duck_onset": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "duck_last": {
+   "leak": 0.07142857142857142,
+   "recall": 0.4074074074074074,
+   "text": "They give walls according to which images of past occurrences have been stored in minds, but cannot "
+  },
+  "duck_all": {
+   "leak": 0.0,
+   "recall": 0.8148148148148148,
+   "text": "They give laws according to which images of past occurrences come into our minds, but do not discuss"
+  },
+  "shift_disagreement": 0.33333333333333337
+ }
+]

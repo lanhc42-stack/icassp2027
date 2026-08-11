@@ -1,0 +1,3690 @@
+[
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__speech_alone.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": null,
+  "cond": "speech_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1_rhythm__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1_rhythm__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1_rhythm__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1_rhythm__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1_rhythm__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1b_accomp__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1b_accomp__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1b_accomp__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1b_accomp__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C1b_accomp__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C2_vocals__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C2_vocals__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C2_vocals__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C2_vocals__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__AM_Contra_-_Heart_Peripheral__C2_vocals__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C2_vocals__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C2_vocals__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C2_vocals__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C2_vocals__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__The_Easton_Ellises_-_Falcon_69__C2_vocals__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+0.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+5.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/7021-79730-0008__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+10.wav",
+  "utt": "7021-79730-0008",
+  "ref": "BUT THIS LAST SUPPOSITION IS ALMOST ALWAYS UNNECESSARY FOR IF MARY HAS BEEN HABITUALLY MANAGED ON THIS PRINCIPLE SHE WILL NOT MAKE ANY TROUBLE",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__speech_alone.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": null,
+  "cond": "speech_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1_rhythm__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1_rhythm__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1_rhythm__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1_rhythm__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1_rhythm__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1b_accomp__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1b_accomp__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1b_accomp__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1b_accomp__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C1b_accomp__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C2_vocals__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C2_vocals__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C2_vocals__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C2_vocals__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__AM_Contra_-_Heart_Peripheral__C2_vocals__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C2_vocals__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C2_vocals__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C2_vocals__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C2_vocals__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__The_Easton_Ellises_-_Falcon_69__C2_vocals__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+0.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+5.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/6829-68771-0010__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+10.wav",
+  "utt": "6829-68771-0010",
+  "ref": "THE FAIRVIEW BAND WAS ENGAGED TO DISCOURSE AS MUCH HARMONY AS IT COULD PRODUCE AND THE RESOURCES OF THE GREAT HOUSE WERE TAXED TO ENTERTAIN THE GUESTS",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__speech_alone.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": null,
+  "cond": "speech_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1_rhythm__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1_rhythm__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1_rhythm__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1_rhythm__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1_rhythm__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1b_accomp__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1b_accomp__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1b_accomp__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1b_accomp__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C1b_accomp__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C2_vocals__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C2_vocals__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C2_vocals__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C2_vocals__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__AM_Contra_-_Heart_Peripheral__C2_vocals__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C2_vocals__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C2_vocals__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C2_vocals__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C2_vocals__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__The_Easton_Ellises_-_Falcon_69__C2_vocals__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+0.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+5.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/1320-122617-0018__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+10.wav",
+  "utt": "1320-122617-0018",
+  "ref": "IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__speech_alone.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": null,
+  "cond": "speech_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1_rhythm__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1_rhythm__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1_rhythm__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1_rhythm__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1_rhythm__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1b_accomp__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1b_accomp__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1b_accomp__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1b_accomp__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C1b_accomp__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C2_vocals__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C2_vocals__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C2_vocals__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C2_vocals__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__AM_Contra_-_Heart_Peripheral__C2_vocals__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C2_vocals__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C2_vocals__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C2_vocals__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C2_vocals__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__The_Easton_Ellises_-_Falcon_69__C2_vocals__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+0.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+5.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/8230-279154-0031__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+10.wav",
+  "utt": "8230-279154-0031",
+  "ref": "THEY GIVE LAWS ACCORDING TO WHICH IMAGES OF PAST OCCURRENCES COME INTO OUR MINDS BUT DO NOT DISCUSS OUR BELIEF THAT THESE IMAGES REFER TO PAST OCCURRENCES WHICH IS WHAT CONSTITUTES KNOWLEDGE MEMORY",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__speech_alone.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": null,
+  "cond": "speech_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1_rhythm__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1_rhythm__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1_rhythm__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1_rhythm__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1_rhythm__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1b_accomp__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1b_accomp__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1b_accomp__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1b_accomp__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C1b_accomp__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C2_vocals__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C2_vocals__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C2_vocals__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C2_vocals__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__AM_Contra_-_Heart_Peripheral__C2_vocals__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1_rhythm__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C1b_accomp__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Signe_Jakobsen_-_What_Have_You_Done_To_M__C2_vocals__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1_rhythm__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C1b_accomp__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C2_vocals__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Lyndsey_Ollard_-_Catching_Up__C2_vocals__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1_rhythm__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1_rhythm__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1b_accomp__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C1b_accomp__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C2_vocals__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C2_vocals__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C2_vocals__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C2_vocals__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__The_Easton_Ellises_-_Falcon_69__C2_vocals__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1_rhythm__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C1b_accomp__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Girls_Under_Glass_-_We_Feel_Alright__C2_vocals__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1_rhythm__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1_rhythm",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C1b_accomp__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C1b_accomp",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__-5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": -5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+0.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 0
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+5.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 5
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/260-123288-0011__Angels_In_Amplifiers_-_I'm_Alright__C2_vocals__+10.wav",
+  "utt": "260-123288-0011",
+  "ref": "BUT IF WE HAVE NOW CEASED TO ADVANCE WHY DO WE YET LEAVE THAT SAIL LOOSE WHICH AT THE FIRST SHOCK OF THE TEMPEST MAY CAPSIZE US IN A MOMENT",
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "C2_vocals",
+  "snr": 10
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/CTRL__AM_Contra_-_Heart_Peripheral__vocals_alone.wav",
+  "utt": null,
+  "ref": null,
+  "track": "AM Contra - Heart Peripheral",
+  "cond": "vocals_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/CTRL__Signe_Jakobsen_-_What_Have_You_Done_To_M__vocals_alone.wav",
+  "utt": null,
+  "ref": null,
+  "track": "Signe Jakobsen - What Have You Done To Me",
+  "cond": "vocals_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/CTRL__Lyndsey_Ollard_-_Catching_Up__vocals_alone.wav",
+  "utt": null,
+  "ref": null,
+  "track": "Lyndsey Ollard - Catching Up",
+  "cond": "vocals_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/CTRL__The_Easton_Ellises_-_Falcon_69__vocals_alone.wav",
+  "utt": null,
+  "ref": null,
+  "track": "The Easton Ellises - Falcon 69",
+  "cond": "vocals_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/CTRL__Girls_Under_Glass_-_We_Feel_Alright__vocals_alone.wav",
+  "utt": null,
+  "ref": null,
+  "track": "Girls Under Glass - We Feel Alright",
+  "cond": "vocals_alone",
+  "snr": null
+ },
+ {
+  "clip": "/opt/tiger/icassp2027/work/clips/CTRL__Angels_In_Amplifiers_-_I'm_Alright__vocals_alone.wav",
+  "utt": null,
+  "ref": null,
+  "track": "Angels In Amplifiers - I'm Alright",
+  "cond": "vocals_alone",
+  "snr": null
+ }
+]
