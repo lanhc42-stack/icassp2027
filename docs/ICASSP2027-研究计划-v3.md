@@ -448,7 +448,14 @@ v3 的"两条缩放曲线"作废。理由:3 点 vs 2 点撑不起趋势断言,�
 
 **判读优先看单调性**:若 LLR 沿阶梯单调上升,H-LM 以剂量—反应的形式成立,**比任何单一两点差值都更有说服力**;若四点齐平,则"泄漏源于目标定义歧义而非语言先验"直接成立。
 
-**待确认**:whisper_ctc_offline 主要服务中文生产场景,**英文 ASR 质量未知**。上英文臂前须先测其英文基线 WER;若英文不可用,则阶梯零点在中文臂测(Granite 缺席),英文臂只画 Δ₁/Δ₂ 三点。**这项验证放在第 1 周,因为它决定 Fig 2 的版式。**
+**已解决(2026-08-11)**:whisper_ctc_offline 已部署到 L20 pod 并跑通,**英文可用**。LibriSpeech test-clean 单条实测:
+
+> 输出 `If ever he was imp to cast sin from him and to repent, the impulse that moved him was the wish to be her night.`
+> 参考 `IF EVER HE WAS IMPELLED TO CAST SIN FROM HIM AND TO REPENT THE IMPULSE THAT MOVED HIM WAS THE WISH TO BE HER KNIGHT`
+
+仅 impelled→imp(删除)与 knight→night(同音)两处。**因此 Fig 2 面板 A 按四点画,英文臂零点成立。**
+
+仍需补:在 test-clean 子集上测一个正式的英文基线 WER 数字(单条不能当基线)。**注意模型带标点与大小写**(checkpoint 含 recode_punc),算 WER 与做歌词 n-gram 匹配前必须先做文本归一化。
 
 #### 面板 B(次):族内缩放趋势
 
@@ -627,12 +634,20 @@ v3 §11 把两个方向都写成"好结论",实际并不对等。落在这一支
 
 ## 十三、本周待办
 
-**无需审批、今天就能开始的(优先):**
+**已完成(2026-08-11,GPU pod `fdbd:dc53:13:72c::18`,L20):**
 
-- [ ] 下载 **NHSS**(https://hltnus.github.io/NHSSDatabase/)与 **LibriSpeech test-clean** —— 英文臂关键路径,不依赖任何审批
-- [ ] 跑通 **Granite-speech 3.3 2b** 推理,确认英文 ASR 输出正常
-- [ ] **部署 `whisper_ctc_offline`**(hyper_boot `feat/whisper-ctc-offline` 分支)并跑通离线推理
-- [ ] **测 whisper_ctc 的英文基线 WER** —— 决定 Fig 2 面板 A 是四点还是三点(§Fig 2)
+- [x] **LibriSpeech test-clean 下载完成**(347 MB)
+- [x] **MUSDB18-HQ 下载完成并校验**(22.7 GB,md5 `12d4f2ecd5…63103` 一致)
+- [x] **`whisper_ctc_offline` 已部署**(hyper_boot `feat/whisper-ctc-offline` 分支 → L20 pod,命中 HDFS 缓存,未重建 TRT 引擎),5 个组件全部 READY
+- [x] **离线推理跑通**,英文可用(见 §Fig 2 面板 A)
+
+**接下来无需审批即可做:**
+
+- [ ] 在 test-clean 子集上测 whisper_ctc 正式英文基线 WER(含文本归一化)
+- [ ] 解压 MUSDB18-HQ,抽取 vocals / 伴奏分轨,搭英文臂 C1–C3
+- [ ] 编写可控混合脚本(SNR 扫描,双臂)
+- [ ] **CTC 泄漏 pilot**:粗混说话+歌声,看无解码器模型是否照样转出歌词(直接检验 H1,§6.7 一)
+- [ ] 跑通 **Granite-speech 3.3 2b** 推理(注意:pod 上 HuggingFace 返回 429,需 token 或重试)
 - [ ] **diff Qwen3-ASR 与 Whisper 的特征提取代码**,确认 mel 参数是否逐项相同(§6.6 一整段论证压在这上面,约 20 分钟)
 - [ ] 选定一个**公开 encoder+CTC 模型**作为可复现的阶梯零点(§6.7 限制二)
 
