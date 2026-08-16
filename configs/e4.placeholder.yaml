@@ -1,0 +1,37 @@
+project:
+  seed: 20260812
+  split: development
+  e3_root: __SET_ME_E3_GENERATED_ROOT__
+  output_root: __SET_ME_E4_OUTPUT_ROOT__
+
+model:
+  model_path: __SET_ME_WHISPER_MODEL_PATH__
+  device: cuda
+  dtype: float16
+  language: en
+  task: transcribe
+  max_new_tokens: 180
+
+scoring:
+  lowercase: true
+  strip_punctuation: true
+  bootstrap_replicates: 10000
+
+e4a:
+  prefix_words: 5
+  samples_per_stratum: 30
+  max_samples_per_track_per_stratum: 2
+  source_condition: static_lyric
+  strata:
+    boundary:
+      order: absolute_scs_ascending
+    stable_speech:
+      scs_max: -0.8
+    stable_lyric:
+      scs_min: 0.8
+
+e4b:
+  switch_s: [1.0, 2.0, 4.0]
+  directions: [s_to_l, l_to_s]
+  pairs_per_track: 1
+  natural_prompt_max_words: 30

@@ -1,0 +1,45 @@
+{
+  "experiment": "e7_final_holdout",
+  "n_rows": 5908,
+  "n_tracks": 9,
+  "families": {
+    "e1": 1543,
+    "e2": 2262,
+    "e3": 1761,
+    "e4a": 62,
+    "e4b": 113,
+    "e5": 167
+  },
+  "evaluations": [
+    {
+      "model": "M0_local",
+      "n_parameters": 6,
+      "n_test": 5908,
+      "heldout_token_nll": 0.3155020832731968,
+      "brier": 0.07926337242164694,
+      "accuracy": 0.7598171970209885,
+      "macro_f1": 0.43175916129652786,
+      "ece10": 0.04583583563599289
+    },
+    {
+      "model": "M1_position",
+      "n_parameters": 6,
+      "n_test": 5908,
+      "heldout_token_nll": 0.3154370838338183,
+      "brier": 0.07919471120298141,
+      "accuracy": 0.7598171970209885,
+      "macro_f1": 0.43175916129652786,
+      "ece10": 0.041449912581842316
+    },
+    {
+      "model": "M2_commitment",
+      "n_parameters": 6,
+      "n_test": 5908,
+      "heldout_token_nll": 0.33521570945889506,
+      "brier": 0.08349737288058563,
+      "accuracy": 0.7598171970209885,
+      "macro_f1": 0.43175916129652786,
+      "ece10": 0.032623574028603455
+    }
+  ]
+}

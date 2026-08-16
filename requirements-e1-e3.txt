@@ -1,0 +1,10 @@
+# Stimulus preparation, scoring, and analysis
+numpy>=1.26
+scipy>=1.11
+soundfile>=0.12
+PyYAML>=6.0
+
+# Model runners (install versions compatible with the GPU image)
+torch>=2.1
+transformers>=4.46
+tritonclient[grpc]>=2.50

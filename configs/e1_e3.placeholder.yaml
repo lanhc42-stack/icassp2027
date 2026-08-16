@@ -1,0 +1,115 @@
+# E1-E3 confirmation experiments.
+# Copy this file to configs/e1_e3.local.yaml and replace every __SET_ME__ value.
+# The local file may contain private paths/hosts and should not be committed.
+
+project:
+  seed: 20260812
+  output_root: ../experiments/e1_e3/generated
+
+datasets:
+  # Expected layout: LibriSpeech/test-clean/<speaker>/<chapter>/*.{flac,wav}
+  librispeech_test_clean: __SET_ME_LIBRISPEECH_TEST_CLEAN__
+  # Expected layout: any nested track directory containing vocals.wav.
+  musdb18hq_root: __SET_ME_MUSDB18HQ__
+  # Optional JSON/JSONL; see experiments/e1_e3/README.md for the record schema.
+  lyrics_manifest: __SET_ME_LYRICS_MANIFEST__
+  # Optional but required for E3's two-second window score. Word times must be
+  # relative to the original LibriSpeech utterance; prepare subtracts VAD onset.
+  speech_alignment_manifest: __SET_ME_SPEECH_ALIGNMENT_MANIFEST__
+  allow_missing_lyrics_during_generation: true
+
+selection:
+  n_speech_utterances: 5
+  n_tracks: 30
+  crops_per_track: 2
+  split_development_fraction: 0.70
+  # Existing Pilot 01-10 material should be listed here before confirmation runs.
+  excluded_speech_ids: []
+  excluded_track_ids: []
+  vocal_crop_hop_s: 0.5
+  vocal_min_active_fraction: 0.70
+  vocal_activity_threshold_db_below_track_peak: 30.0
+  # E3 requires both sources to be present at onset and around every candidate
+  # switch/evaluation window. Candidate crops failing any window are rejected.
+  component_window_min_db_below_clip_rms: 20.0
+  required_activity_windows_s:
+    - [0.0, 0.5]
+    - [0.5, 2.5]
+    - [1.0, 3.0]
+    - [2.0, 4.0]
+    - [4.0, 6.0]
+    - [5.0, 10.0]
+
+audio:
+  sample_rate: 16000
+  clip_duration_s: 10.0
+  headroom_peak: 0.90
+  intervention_ramp_ms: 50.0
+  vad:
+    frame_ms: 30.0
+    hop_ms: 10.0
+    threshold_db_below_peak: 35.0
+    min_consecutive_frames: 3
+    pre_roll_ms: 50.0
+
+experiments:
+  e1:
+    snr_db: [-10.0, -5.0, 0.0]
+    attenuation_db: 20.0
+    intervention_duration_s: 2.0
+    # Two separated one-second windows. Nominal duration and attenuation match
+    # the other local interventions; the realized energy dose is always logged.
+    distributed_intervals_s:
+      - [2.0, 3.0]
+      - [7.0, 8.0]
+  e2:
+    snr_db: [-10.0, -5.0]
+    durations_s: [0.5, 1.0, 2.0, 3.0]
+    attenuations_db: [10.0, 20.0, 30.0]
+    reduced_grid_models:
+      qwen3: [[0.5, 10.0], [0.5, 30.0], [2.0, 10.0], [2.0, 30.0]]
+      ctc: [[0.5, 10.0], [0.5, 30.0], [2.0, 10.0], [2.0, 30.0]]
+  e3:
+    speech_dominant_snr_db: 10.0
+    lyric_dominant_snr_db: -10.0
+    equal_snr_db: 0.0
+    history_durations_s: [0.5, 1.0, 2.0, 4.0]
+    primary_history_duration_s: 2.0
+    post_switch_evaluation_s: 2.0
+    symmetric_switch_s: 5.0
+
+models:
+  whisper:
+    backend: whisper_hf
+    model_path: __SET_ME_WHISPER_LARGE_V3_MODEL__
+    device: cuda
+    dtype: float16
+    max_new_tokens: 180
+    word_timestamps: true
+    language: en
+    task: transcribe
+  qwen3:
+    backend: qwen_http
+    url: __SET_ME_QWEN3_TRANSCRIBE_URL__
+    workers: 4
+    timeout_s: 180
+    retries: 3
+  ctc:
+    backend: ctc_triton
+    host: __SET_ME_CTC_TRITON_HOST__
+    port: 10823
+    preprocessing_model: whisper_ctc_offline_preprocessing
+    ensemble_model: whisper_ctc_offline_asr_ensemble
+    # Optional JSON/JSONL produced by the CTC forced aligner after inference.
+    # Records: {"sample_id": "...", "words": [{word,start,end}, ...]}.
+    word_alignment_manifest: null
+
+scoring:
+  lowercase: true
+  strip_punctuation: true
+  # If true, score refuses confirmation results without a lyric reference.
+  require_lyric_reference: true
+  require_crop_aligned_lyrics: true
+  require_speech_alignment: true
+  require_word_aligned_references_for_e3: true
+  bootstrap_replicates: 10000

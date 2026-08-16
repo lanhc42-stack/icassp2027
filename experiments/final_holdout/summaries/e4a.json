@@ -1,0 +1,359 @@
+{
+  "experiment": "e4a",
+  "n_rows": 144,
+  "aggregates": [
+    {
+      "selection_stratum": "boundary",
+      "prefix_condition": "none",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 0.7305576368076369,
+      "mean_tsr": 0.1219541910331384,
+      "mean_scs": 0.4611152736152736,
+      "mean_no_grounded_output": 0.0,
+      "mean_prompt_token_logprob": null
+    },
+    {
+      "selection_stratum": "boundary",
+      "prefix_condition": "speech",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 0.45206766917293234,
+      "mean_tsr": 0.10119047619047619,
+      "mean_scs": -0.09586466165413533,
+      "mean_no_grounded_output": 0.6666666666666666,
+      "mean_prompt_token_logprob": -10.966789642969767
+    },
+    {
+      "selection_stratum": "boundary",
+      "prefix_condition": "lyric",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 0.725,
+      "mean_tsr": 0.050595238095238096,
+      "mean_scs": 0.45,
+      "mean_no_grounded_output": 0.6666666666666666,
+      "mean_prompt_token_logprob": -9.974579056104025
+    },
+    {
+      "selection_stratum": "boundary",
+      "prefix_condition": "unrelated",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 0.6842105263157895,
+      "mean_tsr": 0.0625,
+      "mean_scs": 0.3684210526315789,
+      "mean_no_grounded_output": 0.6666666666666666,
+      "mean_prompt_token_logprob": -13.532047589619955
+    },
+    {
+      "selection_stratum": "stable_speech",
+      "prefix_condition": "none",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 0.0,
+      "mean_tsr": 0.3658335653949689,
+      "mean_scs": -1.0,
+      "mean_no_grounded_output": 0.0,
+      "mean_prompt_token_logprob": null
+    },
+    {
+      "selection_stratum": "stable_speech",
+      "prefix_condition": "speech",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 0.0,
+      "mean_tsr": 0.10510651629072681,
+      "mean_scs": -1.0,
+      "mean_no_grounded_output": 0.75,
+      "mean_prompt_token_logprob": -11.594030539194742
+    },
+    {
+      "selection_stratum": "stable_speech",
+      "prefix_condition": "lyric",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 1.0,
+      "mean_tsr": 0.0,
+      "mean_scs": 1.0,
+      "mean_no_grounded_output": 0.8333333333333334,
+      "mean_prompt_token_logprob": -10.298302292823792
+    },
+    {
+      "selection_stratum": "stable_speech",
+      "prefix_condition": "unrelated",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 0.027777777777777776,
+      "mean_tsr": 0.15307365636313006,
+      "mean_scs": -0.9444444444444444,
+      "mean_no_grounded_output": 0.75,
+      "mean_prompt_token_logprob": -12.783540646235148
+    },
+    {
+      "selection_stratum": "stable_lyric",
+      "prefix_condition": "none",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 1.0,
+      "mean_tsr": 0.0,
+      "mean_scs": 1.0,
+      "mean_no_grounded_output": 0.0,
+      "mean_prompt_token_logprob": null
+    },
+    {
+      "selection_stratum": "stable_lyric",
+      "prefix_condition": "speech",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 0.5,
+      "mean_tsr": 0.047619047619047616,
+      "mean_scs": 0.0,
+      "mean_no_grounded_output": 0.8333333333333334,
+      "mean_prompt_token_logprob": -11.693344513575235
+    },
+    {
+      "selection_stratum": "stable_lyric",
+      "prefix_condition": "lyric",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 1.0,
+      "mean_tsr": 0.0,
+      "mean_scs": 1.0,
+      "mean_no_grounded_output": 0.9166666666666666,
+      "mean_prompt_token_logprob": -9.590255379676819
+    },
+    {
+      "selection_stratum": "stable_lyric",
+      "prefix_condition": "unrelated",
+      "n": 12,
+      "n_tracks": 7,
+      "mean_lir": 0.6666666666666666,
+      "mean_tsr": 0.044642857142857144,
+      "mean_scs": 0.3333333333333333,
+      "mean_no_grounded_output": 0.75,
+      "mean_prompt_token_logprob": -13.302016735076904
+    }
+  ],
+  "contrasts_available_case": [
+    {
+      "stratum_or_direction": "boundary",
+      "contrast": "SCS(lyric)-SCS(speech)",
+      "estimate": 0.10877192982456142,
+      "ci95_low": 0.0,
+      "ci95_high": 0.3263157894736843,
+      "n_pairs": 3,
+      "n_tracks": 3
+    },
+    {
+      "stratum_or_direction": "boundary",
+      "contrast": "SCS(speech)-SCS(none)",
+      "estimate": -0.06312656641604009,
+      "ci95_low": -1.4851190476190477,
+      "ci95_high": 1.2791353383458648,
+      "n_pairs": 4,
+      "n_tracks": 4
+    },
+    {
+      "stratum_or_direction": "boundary",
+      "contrast": "SCS(lyric)-SCS(none)",
+      "estimate": -0.030952380952380915,
+      "ci95_low": -2.0,
+      "ci95_high": 1.607142857142857,
+      "n_pairs": 4,
+      "n_tracks": 3
+    },
+    {
+      "stratum_or_direction": "boundary",
+      "contrast": "SCS(unrelated)-SCS(none)",
+      "estimate": -0.13972431077694236,
+      "ci95_low": -2.0,
+      "ci95_high": 1.607142857142857,
+      "n_pairs": 4,
+      "n_tracks": 3
+    },
+    {
+      "stratum_or_direction": "stable_speech",
+      "contrast": "SCS(lyric)-SCS(speech)",
+      "estimate": 2.0,
+      "ci95_low": 2.0,
+      "ci95_high": 2.0,
+      "n_pairs": 1,
+      "n_tracks": 1
+    },
+    {
+      "stratum_or_direction": "stable_speech",
+      "contrast": "SCS(speech)-SCS(none)",
+      "estimate": 0.0,
+      "ci95_low": 0.0,
+      "ci95_high": 0.0,
+      "n_pairs": 3,
+      "n_tracks": 2
+    },
+    {
+      "stratum_or_direction": "stable_speech",
+      "contrast": "SCS(lyric)-SCS(none)",
+      "estimate": 2.0,
+      "ci95_low": 2.0,
+      "ci95_high": 2.0,
+      "n_pairs": 2,
+      "n_tracks": 2
+    },
+    {
+      "stratum_or_direction": "stable_speech",
+      "contrast": "SCS(unrelated)-SCS(none)",
+      "estimate": 0.04166666666666666,
+      "ci95_low": 0.0,
+      "ci95_high": 0.08333333333333331,
+      "n_pairs": 3,
+      "n_tracks": 2
+    },
+    {
+      "stratum_or_direction": "stable_lyric",
+      "contrast": "SCS(lyric)-SCS(speech)",
+      "estimate": 0.0,
+      "ci95_low": 0.0,
+      "ci95_high": 0.0,
+      "n_pairs": 1,
+      "n_tracks": 1
+    },
+    {
+      "stratum_or_direction": "stable_lyric",
+      "contrast": "SCS(speech)-SCS(none)",
+      "estimate": -1.0,
+      "ci95_low": -2.0,
+      "ci95_high": 0.0,
+      "n_pairs": 2,
+      "n_tracks": 2
+    },
+    {
+      "stratum_or_direction": "stable_lyric",
+      "contrast": "SCS(lyric)-SCS(none)",
+      "estimate": 0.0,
+      "ci95_low": 0.0,
+      "ci95_high": 0.0,
+      "n_pairs": 1,
+      "n_tracks": 1
+    },
+    {
+      "stratum_or_direction": "stable_lyric",
+      "contrast": "SCS(unrelated)-SCS(none)",
+      "estimate": -0.6666666666666666,
+      "ci95_low": -2.0,
+      "ci95_high": 0.0,
+      "n_pairs": 3,
+      "n_tracks": 3
+    }
+  ],
+  "contrasts_zero_filled": [
+    {
+      "stratum_or_direction": "boundary",
+      "contrast": "SCS(lyric)-SCS(speech)",
+      "estimate": 0.15596133190118153,
+      "ci95_low": 0.023308270676691733,
+      "ci95_high": 0.3221267454350161,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "boundary",
+      "contrast": "SCS(speech)-SCS(none)",
+      "estimate": -0.5654887092857017,
+      "ci95_low": -1.0623192596876807,
+      "ci95_high": 0.0683886915089923,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "boundary",
+      "contrast": "SCS(lyric)-SCS(none)",
+      "estimate": -0.4095273773845202,
+      "ci95_low": -1.0286796536796536,
+      "ci95_high": 0.3685619737405433,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "boundary",
+      "contrast": "SCS(unrelated)-SCS(none)",
+      "estimate": -0.432835648061212,
+      "ci95_low": -1.0286796536796536,
+      "ci95_high": 0.3440624694854007,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "stable_speech",
+      "contrast": "SCS(lyric)-SCS(speech)",
+      "estimate": 0.5,
+      "ci95_low": 0.07142857142857142,
+      "ci95_high": 1.0714285714285714,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "stable_speech",
+      "contrast": "SCS(speech)-SCS(none)",
+      "estimate": 0.7142857142857143,
+      "ci95_low": 0.42857142857142855,
+      "ci95_high": 1.0,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "stable_speech",
+      "contrast": "SCS(lyric)-SCS(none)",
+      "estimate": 1.2142857142857142,
+      "ci95_low": 1.0,
+      "ci95_high": 1.5,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "stable_speech",
+      "contrast": "SCS(unrelated)-SCS(none)",
+      "estimate": 0.7976190476190476,
+      "ci95_low": 0.5357142857142857,
+      "ci95_high": 1.0,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "stable_lyric",
+      "contrast": "SCS(lyric)-SCS(speech)",
+      "estimate": 0.07142857142857142,
+      "ci95_low": 0.0,
+      "ci95_high": 0.21428571428571427,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "stable_lyric",
+      "contrast": "SCS(speech)-SCS(none)",
+      "estimate": -1.0,
+      "ci95_low": -1.2142857142857142,
+      "ci95_high": -0.7857142857142857,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "stable_lyric",
+      "contrast": "SCS(lyric)-SCS(none)",
+      "estimate": -0.9285714285714286,
+      "ci95_low": -1.0,
+      "ci95_high": -0.7857142857142857,
+      "n_pairs": 12,
+      "n_tracks": 7
+    },
+    {
+      "stratum_or_direction": "stable_lyric",
+      "contrast": "SCS(unrelated)-SCS(none)",
+      "estimate": -0.9285714285714286,
+      "ci95_low": -1.1428571428571428,
+      "ci95_high": -0.7142857142857143,
+      "n_pairs": 12,
+      "n_tracks": 7
+    }
+  ],
+  "missing_output_policy": "Available-case SCS and SCS=0 for no-grounded-output are both reported; no-grounded-output rate is explicit in aggregates."
+}

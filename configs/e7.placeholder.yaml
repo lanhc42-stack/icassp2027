@@ -1,0 +1,13 @@
+project:
+  seed: 20260812
+  e1_e3_root: __SET_ME_E1_E3_GENERATED_ROOT__
+  e4_root: __SET_ME_E4_GENERATED_ROOT__
+  e5_root: __SET_ME_E5_GENERATED_ROOT__
+  holdout_e4_root: __SET_ME_FINAL_HOLDOUT_E4_ROOT__
+  holdout_e5_root: __SET_ME_FINAL_HOLDOUT_E5_ROOT__
+  output_root: __SET_ME_E7_OUTPUT_ROOT__
+
+fit:
+  ridge_lambda: 0.1
+  track_folds: 5
+  max_iterations: 1000

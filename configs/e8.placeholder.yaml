@@ -1,0 +1,32 @@
+project:
+  seed: 20260812
+  split: development
+  e1_root: __SET_ME_E1_GENERATED_ROOT__
+  output_root: __SET_ME_E8_OUTPUT_ROOT__
+
+frontend:
+  binary_path: __SET_ME_DEEP_FILTER_BINARY__
+  name: DeepFilterNet
+  version: 0.5.6
+  model: default_pretrained
+  sample_rate: 48000
+  compensate_delay: true
+  intervention_duration_s: 2.0
+  splice_crossfade_ms: 50.0
+
+model:
+  model_path: __SET_ME_WHISPER_MODEL_PATH__
+  device: cuda
+  dtype: float16
+  language: en
+  task: transcribe
+  max_new_tokens: 180
+
+selection:
+  snr_db: -10.0
+  pairs_per_track: 1
+
+scoring:
+  lowercase: true
+  strip_punctuation: true
+  bootstrap_replicates: 10000

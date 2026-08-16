@@ -1,37 +1,37 @@
 # icassp2027
 
-Research project targeting **ICASSP 2027** (Toronto, 16–21 May 2027).
+Research code and artifacts for a study of source capture in encoder-decoder ASR
+under competing speech and singing.
 
-## Hard deadline
+## Source of truth
 
-| Milestone | Date |
-|---|---|
-| **Full paper submission** | **16 Sep 2026, 23:59:59 UTC-12** |
-| Acceptance notification | 13 Jan 2027 |
-| Final (camera-ready) paper | 27 Jan 2027 |
-| Author registration | 10 Feb 2027 |
+Do not infer experiment status or paper claims from planning notes, pilot names,
+or prose summaries. Use this order:
 
-Format: 4 pages of technical content + 1 additional page for references only.
-Verify against the official CfP before drafting — <https://2027.ieeeicassp.org/call-for-papers/>
+1. `experiments/final_holdout/summaries/*.json` for final holdout aggregates;
+2. `experiments/e1_e3/generated/e*/manifest.jsonl` and `runs/*.jsonl` for actual
+   executed E1-E3 rows;
+3. `experiments/e1_e3/generated/config.snapshot.yaml` for the frozen stimulus
+   configuration;
+4. `docs/analysis-freeze-2026-08-15.md` for the pre-holdout decision rules;
+5. `docs/EXPERIMENT_LEDGER.md` for a factual index derived from those artifacts.
 
-## Topic
+The formal controlled suite used **30 MUSDB tracks**, split by track into
+**21 development and 9 final holdout tracks**. A separate historical pilot
+manifest contains 50 tracks, but it is not the formal E1-E8 dataset and its raw
+model-run files are not present in this repository.
 
-**Not yet locked.** See `docs/plan.md` for the decision and the back-planned schedule.
+## Repository layout
 
-## Layout
-
+```text
+configs/       editable templates; machine-specific *.local.yaml files are ignored
+docs/          frozen protocol and artifact-derived experiment ledger
+experiments/   manifests, raw outputs, scores, summaries, and figures
+paper/         manuscript source
+scripts/       resumable experiment launchers
+src/           reusable implementation and historical pilot scripts
+tests/         implementation tests
+tools/         data utilities, server adapters, and plotting scripts
 ```
-src/          implementation
-experiments/  one subdir per experiment: config + results + a short log
-data/         datasets and audio (gitignored — keep out of git)
-paper/        LaTeX source
-docs/         plan, notes, related-work reading
-```
 
-## Conventions
-
-- `data/` is gitignored. Never commit audio, checkpoints, or corpora.
-- Every experiment gets a directory under `experiments/` with the exact config
-  that produced its numbers. Results that can't be traced to a config don't go
-  in the paper.
-- Repo is **private** until the anonymity period ends.
+Audio, datasets, and model checkpoints must remain outside version control.

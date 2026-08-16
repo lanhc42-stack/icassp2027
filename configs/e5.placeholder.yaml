@@ -1,0 +1,29 @@
+project:
+  seed: 20260812
+  split: development
+  pairs_manifest: __SET_ME_SHARED_PAIRS_MANIFEST__
+  output_root: __SET_ME_E5_OUTPUT_ROOT__
+
+model:
+  model_path: __SET_ME_WHISPER_MODEL_PATH__
+  device: cuda
+  dtype: float16
+  language: en
+  task: transcribe
+  max_new_tokens: 180
+
+audio:
+  sample_rate: 16000
+  clip_duration_s: 10.0
+  snr_db: -10.0
+  headroom_peak: 0.90
+  boundary_smoothing_ms: 10.0
+
+selection:
+  crops_per_track: 1
+  include_all_speech_utterances: true
+
+scoring:
+  lowercase: true
+  strip_punctuation: true
+  bootstrap_replicates: 10000
